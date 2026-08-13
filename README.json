@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🗒️ eMail & Document Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎨 UI & Presentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 Code & Data Visualization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💡 Code Templates & Generators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📔 Data Formatting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🪄 Data Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧪 Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📝 Logging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 Packages & Versioning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔎 Code Inspector, Linter & Performance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🐝 API & Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🖇️ Integration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌖 ADT & Eclipse"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛤️ Threading"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧰 Generic Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👩‍🎓 Samples & Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":video_game: Games & Experiments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ℹ️ Documentation & Informations"
+    },
+    {
+      "description": "List being updated: feel free to contribute!",
+      "items": [],
+      "title": "Contributions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:39.344Z",
+    "original_repository": "zenrosadira/abap-florilegium",
+    "original_repository_sha": "5ec510ce487237a94e5d0d7f56643efd7547d29a",
+    "enhanced_repository": "enhansome/enhansome-abap-florilegium",
+    "enhanced_repository_description": null,
+    "title": "Awesome ABAP Florilegium with stars"
+  }
+}
