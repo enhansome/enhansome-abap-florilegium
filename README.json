@@ -1,7 +1,3095 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abap2xlsx",
+              "description": "Generate your professional Excel spreadsheet from ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15457787,
+                "language": "ABAP",
+                "last_commit": "2026-04-20T06:16:56Z",
+                "owner": "abap2xlsx",
+                "repo": "abap2xlsx",
+                "stars": 873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zcl_docx",
+              "description": "Best way to create Microsoft Word docx from abap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135445941,
+                "language": "ABAP",
+                "last_commit": "2024-01-26T08:20:41Z",
+                "owner": "AntonSikidin",
+                "repo": "zcl_docx",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zcl_pdf",
+              "description": "A pure stand alone ABAP class for creating PDFs in SAP on any ABAP system",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93239143,
+                "language": "ABAP",
+                "last_commit": "2021-01-06T15:13:59Z",
+                "owner": "beraadim",
+                "repo": "zcl_pdf",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xtt",
+              "description": "ABAP template engine for Excel, Word, Html & Pdf , ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120720998,
+                "language": "ABAP",
+                "last_commit": "2026-08-24T08:02:50Z",
+                "owner": "bizhuka",
+                "repo": "xtt",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "easyHtmlEmail",
+              "description": "Easy to Generate & Maintain Email in SAP (ABAP + HTML/CSS) ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411815450,
+                "language": "ABAP",
+                "last_commit": "2022-05-27T19:25:58Z",
+                "owner": "DryDumbHead",
+                "repo": "easyHtmlEmail",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "text2tab",
+              "description": "TAB-delimited text parser for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65610470,
+                "language": "ABAP",
+                "last_commit": "2026-06-13T09:32:28Z",
+                "owner": "sbcgua",
+                "repo": "text2tab",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP2XLSX_HELPER",
+              "description": "abap2xlsx helper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376054221,
+                "language": "ABAP",
+                "last_commit": "2026-05-18T00:36:35Z",
+                "owner": "boy0korea",
+                "repo": "ABAP2XLSX_HELPER",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP_Sending_Email",
+              "description": "ABAP Sending Email - Class Encapsulation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154469191,
+                "language": "ABAP",
+                "last_commit": "2025-03-20T16:29:36Z",
+                "owner": "eliramy",
+                "repo": "ABAP_Sending_Email",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-HTML-eMail",
+              "description": "SAP ABAP send email using eMail Templates with or without CDS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442124249,
+                "language": "ABAP",
+                "last_commit": "2026-03-02T07:27:48Z",
+                "owner": "vidyadharg",
+                "repo": "ABAP-HTML-eMail",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🗒️ eMail & Document Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abap2UI5",
+              "description": "Development of UI5 Apps in pure ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574401773,
+                "language": "ABAP",
+                "last_commit": "2026-08-24T14:28:50Z",
+                "owner": "abap2UI5",
+                "repo": "abap2UI5",
+                "stars": 373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "falv",
+              "description": "FALV - Fast ALV Grid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53656405,
+                "language": "ABAP",
+                "last_commit": "2026-02-13T14:32:00Z",
+                "owner": "fidley",
+                "repo": "falv",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eui",
+              "description": "Easy UI in SAP ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254557167,
+                "language": "ABAP",
+                "last_commit": "2026-08-24T08:01:29Z",
+                "owner": "bizhuka",
+                "repo": "eui",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sapui5-deployer",
+              "description": "ABAP deployment of SAPUI5 apps from Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32658907,
+                "language": "ABAP",
+                "last_commit": "2021-05-12T05:30:10Z",
+                "owner": "Yelcho",
+                "repo": "sapui5-deployer",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-ui-toolbox",
+              "description": "Tools for UI Development like Improved ALV Grid and GUI control framework ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222782942,
+                "language": "ABAP",
+                "last_commit": "2026-03-05T16:36:21Z",
+                "owner": "DevEpos",
+                "repo": "abap-ui-toolbox",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mvp-salv-table-container-abap",
+              "description": "ALV Grid report based on Model-View-Presenter pattern with dynpro screen and container",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293045096,
+                "language": "ABAP",
+                "last_commit": "2020-09-09T07:23:57Z",
+                "owner": "ivantyumenyev",
+                "repo": "mvp-salv-table-container-abap",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TALV",
+              "description": "An ALV report framework based on ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330634980,
+                "language": "ABAP",
+                "last_commit": "2021-12-07T09:32:52Z",
+                "owner": "AES0P",
+                "repo": "TALV",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🎨 UI & Presentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ABAP-Object-Visualizer",
+              "description": "Visualize complex object hierarchies using debugger script",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42304055,
+                "language": "ABAP",
+                "last_commit": "2021-03-01T08:28:54Z",
+                "owner": "larshp",
+                "repo": "ABAP-Object-Visualizer",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple Data Explorer",
+              "description": "Simple Data Explorer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239386136,
+                "language": "ABAP",
+                "last_commit": "2026-08-18T20:56:00Z",
+                "owner": "ysichov",
+                "repo": "Simple-Data-Explorer",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-markdown",
+              "description": "ABAP Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42476879,
+                "language": "ABAP",
+                "last_commit": "2019-04-24T17:41:52Z",
+                "owner": "koemaeda",
+                "repo": "abap-markdown",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ztoad",
+              "description": "ABAP Open SQL Editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283709469,
+                "language": "ABAP",
+                "last_commit": "2026-08-07T16:38:39Z",
+                "owner": "marianfoo",
+                "repo": "ztoad",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap2yuml",
+              "description": "A great tool for converting ABAP code into yUML dsl",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12667404,
+                "language": null,
+                "last_commit": "2014-06-30T00:14:05Z",
+                "owner": "fabiopagoti",
+                "repo": "abap2yuml",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-to-PlantUML",
+              "description": "Create UML Class and Sequence Diagrams from ABAP Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114275946,
+                "language": "ABAP",
+                "last_commit": "2022-12-16T00:12:51Z",
+                "owner": "nomssi",
+                "repo": "ABAP-to-PlantUML",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZUML_DIAGRAM",
+              "description": "The UML Diagram tool for ABAP using PlantUML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323906861,
+                "language": "ABAP",
+                "last_commit": "2022-03-31T15:58:41Z",
+                "owner": "coreline",
+                "repo": "ZUML_DIAGRAM",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAPplantUML",
+              "description": "plantUML tools for ABAP Dev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181895357,
+                "language": "ABAP",
+                "last_commit": "2019-08-24T15:56:30Z",
+                "owner": "sdfraga",
+                "repo": "ABAPplantUML",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-db-browser",
+              "description": "ABAP DB Browser (Tables, Views, CDS Views, Custom Queries, Joins, ...)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222782363,
+                "language": "ABAP",
+                "last_commit": "2026-03-05T16:35:33Z",
+                "owner": "DevEpos",
+                "repo": "abap-db-browser",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_debugger_object_graph_extension",
+              "description": "ABAP debugger extension to visualize objects as graphs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130444743,
+                "language": "ABAP",
+                "last_commit": "2018-09-11T06:53:07Z",
+                "owner": "marcellourbani",
+                "repo": "abap_debugger_object_graph_extension",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-code-search-tools",
+              "description": "ABAP Code Search",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737349485,
+                "language": null,
+                "last_commit": "2024-01-29T10:22:16Z",
+                "owner": "stockbal",
+                "repo": "abap-code-search-tools",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-2-CODE-CHARTA",
+              "description": "Covert ABAP Metrics to Code Charta",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332739529,
+                "language": "ABAP",
+                "last_commit": "2021-07-01T05:03:30Z",
+                "owner": "BenjaminWeisheit",
+                "repo": "ABAP-2-CODE-CHARTA",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZDDIC_FINDER",
+              "description": "ABAP Dictionary object finder tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306290567,
+                "language": "ABAP",
+                "last_commit": "2021-11-30T02:08:07Z",
+                "owner": "coreline",
+                "repo": "ZDDIC_FINDER",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scf",
+              "description": "You are looking for a specific code snippet in your ABAP code. Then use the Source Code Finder to search for every occurrence of it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214996870,
+                "language": "ABAP",
+                "last_commit": "2021-11-29T13:01:43Z",
+                "owner": "reyemsaibot",
+                "repo": "scf",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapTableCompare",
+              "description": "Compares two tables and reports which lines are unchanged, inserted, deleted or changed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362065003,
+                "language": "ABAP",
+                "last_commit": "2024-05-14T10:38:30Z",
+                "owner": "cavabap",
+                "repo": "abapTableCompare",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapMermaid",
+              "description": "Integrate Mermaid Diagrams in SAP GUI Containers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480129676,
+                "language": "ABAP",
+                "last_commit": "2025-11-19T20:25:07Z",
+                "owner": "WegnerDan",
+                "repo": "abapMermaid",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdsfindanno",
+              "description": "Find Annotation Samples in CDS Views",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555000417,
+                "language": "ABAP",
+                "last_commit": "2024-02-29T19:42:55Z",
+                "owner": "attilaberencsi",
+                "repo": "cdsfindanno",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trlist",
+              "description": "Transport Status List",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 540452248,
+                "language": "ABAP",
+                "last_commit": "2026-06-07T21:30:27Z",
+                "owner": "attilaberencsi",
+                "repo": "trlist",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-soql-query",
+              "description": "ABAP Tool for SOQL Query",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170444817,
+                "language": "ABAP",
+                "last_commit": "2019-03-08T15:37:07Z",
+                "owner": "gprs555",
+                "repo": "abap-soql-query",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_file_browser",
+              "description": "F4 file browser written in abap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469392988,
+                "language": "ABAP",
+                "last_commit": "2022-03-13T23:40:32Z",
+                "owner": "alaible",
+                "repo": "abap_file_browser",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "envysis",
+              "description": "Environment Analysis for ABAP Workbench Objects (where-used list, etc.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259696514,
+                "language": "ABAP",
+                "last_commit": "2023-04-07T11:40:41Z",
+                "owner": "sandraros",
+                "repo": "envysis",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "markdown_from_table_or_structure",
+              "description": "🏭 generate Markdown table from internal table or structure in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618950059,
+                "language": "ABAP",
+                "last_commit": "2023-12-30T19:26:54Z",
+                "owner": "Keller-Michael",
+                "repo": "markdown_from_table_or_structure",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap2md",
+              "description": "ABAP to Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488489897,
+                "language": "C",
+                "last_commit": "2025-11-13T10:24:29Z",
+                "owner": "hapejot",
+                "repo": "abap2md",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MBT-Transport-Request",
+              "description": "The ultimate enhancement for displaying of transport requests in SAP GUI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263292997,
+                "language": "ABAP",
+                "last_commit": "2025-12-11T15:29:04Z",
+                "owner": "Marc-Bernard-Tools",
+                "repo": "MBT-Transport-Request",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZEX_HTML_EDITOR",
+              "description": "A simple HTML Editor and Browser written in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71057631,
+                "language": "ABAP",
+                "last_commit": "2024-11-09T23:22:39Z",
+                "owner": "abeljohny",
+                "repo": "ZEX_HTML_EDITOR",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "💻 Code & Data Visualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abap-ddic-creator",
+              "description": "create table and data elements and domains by batching",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232489052,
+                "language": "ABAP",
+                "last_commit": "2020-01-09T09:55:48Z",
+                "owner": "Leo-SDU",
+                "repo": "abap-ddic-creator",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AbapGenerator",
+              "description": "Generate ABAP Objects from Templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342238303,
+                "language": "ABAP",
+                "last_commit": "2022-10-26T08:49:17Z",
+                "owner": "OberstVonGatow",
+                "repo": "AbapGenerator",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_mustache",
+              "description": "Mustache template engine for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79266013,
+                "language": "ABAP",
+                "last_commit": "2024-06-24T09:43:10Z",
+                "owner": "sbcgua",
+                "repo": "abap_mustache",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FORMfactor",
+              "description": "ABAP - Refactor FORMs to local classes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41919545,
+                "language": "ABAP",
+                "last_commit": "2021-03-01T08:43:53Z",
+                "owner": "larshp",
+                "repo": "FORMfactor",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_bapi_bo_class_generator",
+              "description": "ABAP BAPI Business Object Class Generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203971838,
+                "language": "ABAP",
+                "last_commit": "2019-09-19T07:14:38Z",
+                "owner": "alwinvandeput",
+                "repo": "abap_bapi_bo_class_generator",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "guidrasil",
+              "description": "ABAP GUI designer for Prototyping and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152494424,
+                "language": "ABAP",
+                "last_commit": "2019-01-16T17:55:52Z",
+                "owner": "tricktresor",
+                "repo": "guidrasil",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_gui_boilerplate",
+              "description": "Boilerplate for ABAP simple application with HTML GUI screen",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 162828013,
+                "language": "ABAP",
+                "last_commit": "2022-12-01T13:45:07Z",
+                "owner": "sbcgua",
+                "repo": "abap_gui_boilerplate",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "selection-criteria-as-class",
+              "description": "handle selection criteria as global class to keep all criteria together",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173454800,
+                "language": "ABAP",
+                "last_commit": "2023-02-20T07:51:27Z",
+                "owner": "Keller-Michael",
+                "repo": "selection-criteria-as-class",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-tvarvc",
+              "description": "TVARVC Helper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563934807,
+                "language": "ABAP",
+                "last_commit": "2023-12-28T11:54:39Z",
+                "owner": "raketenstart-abap",
+                "repo": "abap-tvarvc",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_include_assembler",
+              "description": "A tool to statically include includes into the main program",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54305846,
+                "language": "ABAP",
+                "last_commit": "2026-03-10T12:39:34Z",
+                "owner": "sbcgua",
+                "repo": "abap_include_assembler",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zeegor",
+              "description": "Simple Batch Programming in ABAP call transaction and Batch session(SM35).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195531399,
+                "language": "ABAP",
+                "last_commit": "2023-11-04T10:16:08Z",
+                "owner": "vidyadharg",
+                "repo": "Simple-Batch-Programming-in-ABAP",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AbapOOReports",
+              "description": "ABAP Object Oriented Reporting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116696249,
+                "language": "ABAP",
+                "last_commit": "2026-03-18T23:01:54Z",
+                "owner": "oxgl",
+                "repo": "AbapOOReports",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-GlobalToLocal",
+              "description": "APack global ABAP classes in a single report - Simplifies distribution of complex codings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137468041,
+                "language": "ABAP",
+                "last_commit": "2018-06-15T09:58:57Z",
+                "owner": "SAP2Moose",
+                "repo": "ABAP-GlobalToLocal",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "💡 Code Templates & Generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abap_fm_json",
+              "description": "JSON adapter for ABAP Function Modules",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17319122,
+                "language": "ABAP",
+                "last_commit": "2026-07-29T06:27:25Z",
+                "owner": "cesar-sap",
+                "repo": "abap_fm_json",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSON2ABAPType",
+              "description": "Creator of ABAP types on a base of JSON structure",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145442841,
+                "language": "ABAP",
+                "last_commit": "2025-05-29T18:56:23Z",
+                "owner": "fidley",
+                "repo": "JSON2ABAPType",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-file-formats",
+              "description": "File formats that define and specify the file representation for ABAP development objects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339325036,
+                "language": "ABAP",
+                "last_commit": "2026-08-24T13:32:09Z",
+                "owner": "SAP",
+                "repo": "abap-file-formats",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ajson",
+              "description": "Yet another json parser serializer for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264378936,
+                "language": "ABAP",
+                "last_commit": "2026-04-13T17:12:39Z",
+                "owner": "sbcgua",
+                "repo": "ajson",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zcl_mdp_json",
+              "description": "MDP ABAP JSON library that can generate and parse any JSON string",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62476265,
+                "language": "ABAP",
+                "last_commit": "2019-04-04T19:19:16Z",
+                "owner": "fatihpense",
+                "repo": "zcl_mdp_json",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CommonRegexABAP",
+              "description": "CommonRegex port for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282657448,
+                "language": "ABAP",
+                "last_commit": "2021-02-23T13:08:34Z",
+                "owner": "dmitry-zharinov",
+                "repo": "CommonRegexABAP",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-json-serialization",
+              "description": "Fastest possible JSON serialization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 558449258,
+                "language": "ABAP",
+                "last_commit": "2022-10-27T20:06:01Z",
+                "owner": "timostark",
+                "repo": "abap-json-serialization",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-json-encoder-decoder",
+              "description": "One more JSON Encoder/Decoder in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218167273,
+                "language": "ABAP",
+                "last_commit": "2022-09-11T20:41:49Z",
+                "owner": "valdirmendesdev",
+                "repo": "abap-json-encoder-decoder",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZwdCSV",
+              "description": "CSV Parser and Generator for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167724076,
+                "language": "ABAP",
+                "last_commit": "2025-07-30T22:32:09Z",
+                "owner": "WegnerDan",
+                "repo": "ZwdCSV",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-tbox-csvman",
+              "description": "ABAP CSV Manager - An easy-to-use and highly configurable tool to read and create CSV in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607577018,
+                "language": "ABAP",
+                "last_commit": "2025-06-14T13:14:55Z",
+                "owner": "zenrosadira",
+                "repo": "abap-tbox-csvman",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-HTML-Diff",
+              "description": "Library to highlight the content difference between two HTML strings (htmldiff)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499151018,
+                "language": "ABAP",
+                "last_commit": "2026-06-28T17:34:33Z",
+                "owner": "abapPM",
+                "repo": "ABAP-HTML-Diff",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-string-map",
+              "description": "String map primitive implementation on abap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273856593,
+                "language": "ABAP",
+                "last_commit": "2025-12-11T08:40:13Z",
+                "owner": "sbcgua",
+                "repo": "abap-string-map",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_Filehandler",
+              "description": "Construction to handle Files in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127967613,
+                "language": "ABAP",
+                "last_commit": "2020-03-26T16:24:49Z",
+                "owner": "xamafe",
+                "repo": "abap_Filehandler",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📔 Data Formatting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AES",
+              "description": "ABAP Utilities for AES/Rijndael encryption, decryption",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38386958,
+                "language": "ABAP",
+                "last_commit": "2025-09-12T10:40:24Z",
+                "owner": "Sumu-Ning",
+                "repo": "AES",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_jwt_generator",
+              "description": "ABAP JWT Generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262469333,
+                "language": "ABAP",
+                "last_commit": "2021-02-20T23:07:58Z",
+                "owner": "abapChaoLiu",
+                "repo": "abap_jwt_generator",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blowfish-abap",
+              "description": "Blowfish encryption in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215743065,
+                "language": "ABAP",
+                "last_commit": "2019-11-14T06:47:12Z",
+                "owner": "hhelibeb",
+                "repo": "blowfish-abap",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-data-validator",
+              "description": "A data validation tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231032601,
+                "language": "ABAP",
+                "last_commit": "2023-06-08T10:42:06Z",
+                "owner": "hhelibeb",
+                "repo": "abap-data-validator",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IDoc-with-ABAP-OOP",
+              "description": "IDoc-with-ABAP-OOP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282181343,
+                "language": "ABAP",
+                "last_commit": "2023-05-08T12:25:04Z",
+                "owner": "peyn",
+                "repo": "IDoc-with-ABAP-OOP",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geohash-abap",
+              "description": "Geohash utitlies in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205174165,
+                "language": "ABAP",
+                "last_commit": "2020-10-22T09:07:47Z",
+                "owner": "hhelibeb",
+                "repo": "geohash-abap",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapPGP",
+              "description": "ABAP implementation of OpenPGP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69593882,
+                "language": "ABAP",
+                "last_commit": "2025-09-12T10:56:59Z",
+                "owner": "larshp",
+                "repo": "abapPGP",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uid64",
+              "description": "UID-64 generator for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127675476,
+                "language": "ABAP",
+                "last_commit": "2020-09-01T10:56:59Z",
+                "owner": "mkysoft",
+                "repo": "uid64",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoJson",
+              "description": "ABAP Classes to create GeoJson strings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175996327,
+                "language": "ABAP",
+                "last_commit": "2021-02-16T19:46:49Z",
+                "owner": "se38",
+                "repo": "GeoJson",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-CSR",
+              "description": "ABAP Charset Recognizer (ICU)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219077201,
+                "language": "ABAP",
+                "last_commit": "2019-11-11T15:36:44Z",
+                "owner": "sandraros",
+                "repo": "abap-CSR",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapITABOperations",
+              "description": "Advanced operations for internal tables in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121270280,
+                "language": "ABAP",
+                "last_commit": "2018-02-14T20:08:59Z",
+                "owner": "joschkarick",
+                "repo": "abapITABOperations",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🪄 Data Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mockup_loader",
+              "description": "ABAP unit testing framework, prepare in Excel, reuse in abap code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45481794,
+                "language": "ABAP",
+                "last_commit": "2026-06-13T10:01:25Z",
+                "owner": "sbcgua",
+                "repo": "mockup_loader",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mockA",
+              "description": "mockA is a free Mocking Framework for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14140241,
+                "language": "ABAP",
+                "last_commit": "2019-01-05T10:40:48Z",
+                "owner": "uweku",
+                "repo": "mockA",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapFaker",
+              "description": "ABAP Faker: generate fake test data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145228933,
+                "language": "ABAP",
+                "last_commit": "2022-05-09T11:55:59Z",
+                "owner": "se38",
+                "repo": "abapFaker",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_db_preparator",
+              "description": "Avoid breaking tests with database preparation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236528855,
+                "language": "ABAP",
+                "last_commit": "2024-06-17T08:33:13Z",
+                "owner": "bunysae",
+                "repo": "abap_db_preparator",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "regression_test",
+              "description": "Create snapshots in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218513322,
+                "language": "ABAP",
+                "last_commit": "2024-06-24T08:19:04Z",
+                "owner": "germanysources",
+                "repo": "regression_test",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-unit-tests-by-example",
+              "description": "Different examples of ABAP unit tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366322206,
+                "language": "ABAP",
+                "last_commit": "2023-05-03T06:37:29Z",
+                "owner": "Ennowulff",
+                "repo": "abap-unit-tests-by-example",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cacamber",
+              "description": "Behavior Driven Development framework for ABAP ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 634990883,
+                "language": "ABAP",
+                "last_commit": "2023-05-30T20:35:26Z",
+                "owner": "dominikpanzer",
+                "repo": "cacamber-BDD-for-ABAP",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🧪 Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ABAP-Logger",
+              "description": "ABAP Logging as painless as any other language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23935101,
+                "language": "ABAP",
+                "last_commit": "2026-08-22T20:45:15Z",
+                "owner": "ABAP-Logger",
+                "repo": "ABAP-Logger",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-fm-logger",
+              "description": "A logger for function module (RFC)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285577375,
+                "language": "ABAP",
+                "last_commit": "2026-06-27T00:56:27Z",
+                "owner": "hhelibeb",
+                "repo": "abap-fm-logger",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-log-exporter",
+              "description": "Exports SAP Netweaver logs to a log system of your choice.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244026910,
+                "language": "ABAP",
+                "last_commit": "2023-05-08T04:21:07Z",
+                "owner": "abap-observability-tools",
+                "repo": "abap-log-exporter",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-log",
+              "description": "Logging library for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81438973,
+                "language": "ABAP",
+                "last_commit": "2023-09-29T11:44:50Z",
+                "owner": "fabianlupa",
+                "repo": "abap-log",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sap-usi-logging-api",
+              "description": "An easy-to-use, object-oriented encapsulation around the SAP application log (Transaction SLG1)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383409546,
+                "language": "ABAP",
+                "last_commit": "2026-03-11T15:35:15Z",
+                "owner": "SchwarzIT",
+                "repo": "sap-usi-logging-api",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simbal",
+              "description": "Simple Business Application Log for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303139289,
+                "language": "ABAP",
+                "last_commit": "2023-09-26T11:13:09Z",
+                "owner": "keremkoseoglu",
+                "repo": "simbal",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zcl_log_util",
+              "description": "An another ABAP logging class allowing programs to focus on their functionality rather than being buried under lines of logging code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311622564,
+                "language": "ABAP",
+                "last_commit": "2025-09-03T15:54:39Z",
+                "owner": "neooblaster",
+                "repo": "zcl_log_util",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📝 Logging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abapGit",
+              "description": "Git client for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21115149,
+                "language": "ABAP",
+                "last_commit": "2026-08-24T13:44:51Z",
+                "owner": "abapGit",
+                "repo": "abapGit",
+                "stars": 1913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapTimeMachine",
+              "description": "ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222742898,
+                "language": "ABAP",
+                "last_commit": "2023-07-31T10:18:58Z",
+                "owner": "abapinho",
+                "repo": "abapTimeMachine",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📦 Packages & Versioning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code-pal-for-abap",
+              "description": "Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252472689,
+                "language": "ABAP",
+                "last_commit": "2026-07-23T13:16:09Z",
+                "owner": "SAP",
+                "repo": "code-pal-for-abap",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapOpenChecks",
+              "description": "Open source checks for SAP Code Inspector / ABAP Test Cockpit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21558384,
+                "language": "ABAP",
+                "last_commit": "2026-05-12T19:46:12Z",
+                "owner": "larshp",
+                "repo": "abapOpenChecks",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abaplint",
+              "description": "Standalone static analysis for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48330698,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:44:24Z",
+                "owner": "abaplint",
+                "repo": "abaplint",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vscode-abaplint",
+              "description": "Visual Studio Code abaplint extension ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149973615,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T10:25:54Z",
+                "owner": "abaplint",
+                "repo": "vscode-abaplint",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abaplint-sci-client",
+              "description": "ABAP part for running abaplint on ABAP backend",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231917665,
+                "language": "ABAP",
+                "last_commit": "2026-05-24T12:30:30Z",
+                "owner": "abaplint",
+                "repo": "abaplint-sci-client",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vscode-abap",
+              "description": "ABAP syntax highlighting for Visual Studio Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50177092,
+                "language": null,
+                "last_commit": "2024-07-17T11:10:47Z",
+                "owner": "larshp",
+                "repo": "vscode-abap",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-metrics-provider",
+              "description": "Let's you use predefined or custom metrics to monitor your abap stack with a monitoring tool of your choice",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 244026943,
+                "language": "ABAP",
+                "last_commit": "2023-05-08T04:21:09Z",
+                "owner": "abap-observability-tools",
+                "repo": "abap-metrics-provider",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "upDOWNci",
+              "description": "Upload and download SAP Code Inspector variants in XML format - ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39909089,
+                "language": "ABAP",
+                "last_commit": "2026-05-27T08:16:55Z",
+                "owner": "larshp",
+                "repo": "upDOWNci",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ypinc",
+              "description": "ABAP perfomance primitives",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619514287,
+                "language": "ABAP",
+                "last_commit": "2024-07-18T14:44:49Z",
+                "owner": "ypinc",
+                "repo": "abap-caches",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔎 Code Inspector, Linter & Performance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ABAP-Swagger",
+              "description": "Expose ABAP REST services with Swagger/openapi spec",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61979909,
+                "language": "ABAP",
+                "last_commit": "2022-11-10T15:42:07Z",
+                "owner": "larshp",
+                "repo": "ABAP-Swagger",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-openapi",
+              "description": "ABAP OpenAPI Client and Server generator in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331034649,
+                "language": "ABAP",
+                "last_commit": "2026-05-14T10:00:46Z",
+                "owner": "abap-openapi",
+                "repo": "abap-openapi",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-rest-api",
+              "description": "Simple ABAP REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102941958,
+                "language": "ABAP",
+                "last_commit": "2020-01-22T19:49:06Z",
+                "owner": "pacroy",
+                "repo": "abap-rest-api",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapMQ",
+              "description": "ABAP MQTT client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140464791,
+                "language": "ABAP",
+                "last_commit": "2021-02-01T13:15:17Z",
+                "owner": "INVIXO",
+                "repo": "abapMQ",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MQBA",
+              "description": "Message Queue Broker ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140883922,
+                "language": "ABAP",
+                "last_commit": "2020-07-02T11:22:45Z",
+                "owner": "MDJoerg",
+                "repo": "MQBA",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapMQDaemons",
+              "description": "Deamons for abapMQ",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334081234,
+                "language": "ABAP",
+                "last_commit": "2021-12-16T13:21:22Z",
+                "owner": "se38",
+                "repo": "abapMQDaemons",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapNTLM",
+              "description": "ABAP HTTP NTLM Client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29089771,
+                "language": "ABAP",
+                "last_commit": "2026-08-03T11:44:09Z",
+                "owner": "larshp",
+                "repo": "abapNTLM",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-openapi-ui",
+              "description": "OpenAPI / Swagger UI integration for SAP NetWeaver Gateway",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 539587943,
+                "language": "ABAP",
+                "last_commit": "2022-09-21T16:48:40Z",
+                "owner": "geert-janklaps",
+                "repo": "abap-openapi-ui",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-http-agent",
+              "description": "AHA - abap http agent, convenience wrapper over cl_http_client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277273199,
+                "language": "ABAP",
+                "last_commit": "2025-09-24T09:57:50Z",
+                "owner": "sbcgua",
+                "repo": "abap-http-agent",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "consume_rest_api_in_abap",
+              "description": "Consuming REST APIs with (Cloud) ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314668239,
+                "language": "ABAP",
+                "last_commit": "2020-11-21T13:04:26Z",
+                "owner": "s7oev",
+                "repo": "consume_rest_api_in_abap",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "consume_rest_api_in_abap",
+              "description": "Fluentd client in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154730403,
+                "language": "ABAP",
+                "last_commit": "2018-10-25T20:43:25Z",
+                "owner": "pacroy",
+                "repo": "abap-fluentd",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_kafka_rest_proxy",
+              "description": "ABAP to Confluent Kafka REST Proxy Connector",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120045110,
+                "language": "ABAP",
+                "last_commit": "2022-01-18T17:58:36Z",
+                "owner": "cesar-sap",
+                "repo": "abap_kafka_rest_proxy",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🐝 API & Services"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vscode_abap_remote_fs",
+              "description": "Remote filesystem for ABAP systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153752194,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T02:48:08Z",
+                "owner": "marcellourbani",
+                "repo": "vscode_abap_remote_fs",
+                "stars": 376
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-SDK-for-Azure",
+              "description": "ABAP Libraries for SAP native Integration with Azure Services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124694095,
+                "language": "ABAP",
+                "last_commit": "2026-07-14T12:55:51Z",
+                "owner": "microsoft",
+                "repo": "ABAP-SDK-for-Azure",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap2gapps",
+              "description": "ABAP API for Google Apps integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15642287,
+                "language": "ABAP",
+                "last_commit": "2018-08-30T17:16:02Z",
+                "owner": "ivanfemia",
+                "repo": "abap2gapps",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap2gsheet",
+              "description": "ABAP framework that abstract the Google Sheets API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230899247,
+                "language": "ABAP",
+                "last_commit": "2020-01-15T12:06:03Z",
+                "owner": "techedgegroup-sap",
+                "repo": "abap2gsheet",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap2oauth2",
+              "description": "ABAP API for OAuth2 authentication",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15642840,
+                "language": "ABAP",
+                "last_commit": "2018-08-30T17:19:17Z",
+                "owner": "ivanfemia",
+                "repo": "abap2oauth2",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAPFire",
+              "description": "ABAP Firebase Client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100637115,
+                "language": "ABAP",
+                "last_commit": "2018-11-22T08:33:41Z",
+                "owner": "alborghetti",
+                "repo": "ABAPFire",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-lambda-abap-runtime",
+              "description": "AWS Lambda ABAP custom runtime",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244188386,
+                "language": "ABAP",
+                "last_commit": "2021-03-01T06:37:16Z",
+                "owner": "open-abap",
+                "repo": "aws-lambda-abap-runtime",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "proUBC",
+              "description": "Open-source implementation of the PRVD Stack baseline middleware pattern for SAP, using ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480578356,
+                "language": "ABAP",
+                "last_commit": "2024-08-06T18:11:44Z",
+                "owner": "provideplatform",
+                "repo": "provide-abap",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-prometheus",
+              "description": "Prometheus.io Client for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116265284,
+                "language": "ABAP",
+                "last_commit": "2023-07-04T18:36:41Z",
+                "owner": "pacroy",
+                "repo": "abap-prometheus",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP_DeepL_client",
+              "description": "ABAP client for DeepL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196829011,
+                "language": "ABAP",
+                "last_commit": "2022-04-07T15:25:06Z",
+                "owner": "christianguenter2",
+                "repo": "ABAP_DeepL_client",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP_ChatGPT_client",
+              "description": "ABAP client for ChatGPT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643508890,
+                "language": "ABAP",
+                "last_commit": "2023-11-25T21:19:44Z",
+                "owner": "clemens1994",
+                "repo": "ABAP_ChatGPT_Client",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🖇️ Integration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abap-adt-api",
+              "description": "Abap Developer Tools client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166708443,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T21:57:13Z",
+                "owner": "marcellourbani",
+                "repo": "abap-adt-api",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAPFavories",
+              "description": "ABAP Favorites Eclipse Plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95761791,
+                "language": "Java",
+                "last_commit": "2025-06-10T06:17:46Z",
+                "owner": "fidley",
+                "repo": "ABAPFavorites",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAPQuickFix",
+              "description": "ABAPQuickFix",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165494596,
+                "language": "Java",
+                "last_commit": "2025-10-22T06:29:27Z",
+                "owner": "fidley",
+                "repo": "ABAPQuickFix",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eclipse-abap-keywordcolors",
+              "description": "Customized ABAP keyword colors for eclipse",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139145653,
+                "language": null,
+                "last_commit": "2021-05-03T15:26:29Z",
+                "owner": "FreHu",
+                "repo": "eclipse-abap-keywordcolors",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-search-tools",
+              "description": "ABAP Search and Analysis tools (Backend for ADT Plugin)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200108913,
+                "language": "ABAP",
+                "last_commit": "2026-01-07T09:17:50Z",
+                "owner": "DevEpos",
+                "repo": "abap-search-tools",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-tags-backend",
+              "description": "ADT Backend for ABAP Tags Plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278639025,
+                "language": "ABAP",
+                "last_commit": "2026-01-02T18:34:05Z",
+                "owner": "DevEpos",
+                "repo": "abap-tags-backend",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-Project-Extensions",
+              "description": "ABAP-Project-Extensions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246358816,
+                "language": "Java",
+                "last_commit": "2025-10-22T10:58:48Z",
+                "owner": "fidley",
+                "repo": "ABAP-Project-Extensions",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapCI",
+              "description": "Continuous Integration for ABAP ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100522262,
+                "language": "Java",
+                "last_commit": "2020-10-26T10:27:48Z",
+                "owner": "andau",
+                "repo": "abapCI",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-cleaner",
+              "description": "ABAP cleaner applies 55+ cleanup rules to ABAP code at a single keystroke ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630896010,
+                "language": "Java",
+                "last_commit": "2026-08-21T08:48:39Z",
+                "owner": "SAP",
+                "repo": "abap-cleaner",
+                "stars": 653
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🌖 ADT & Eclipse"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zconcurrency_api",
+              "description": "ABAP Development Utilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328233016,
+                "language": "ABAP",
+                "last_commit": "2026-01-18T10:54:40Z",
+                "owner": "victorizbitskiy",
+                "repo": "zconcurrency_api",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zthread",
+              "description": "Simple Thread implementation for ABAP. Based on JAVA Thread, its Runnable interface with some additional callback capabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399785958,
+                "language": "ABAP",
+                "last_commit": "2023-09-14T20:12:20Z",
+                "owner": "xinitrc86",
+                "repo": "zthread",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promise",
+              "description": "ABAP Promise + Async/Await implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506288838,
+                "language": "ABAP",
+                "last_commit": "2023-10-18T11:42:44Z",
+                "owner": "abapify",
+                "repo": "promise",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-threads",
+              "description": "abap threading utils",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183871689,
+                "language": "ABAP",
+                "last_commit": "2020-03-28T19:52:01Z",
+                "owner": "sbcgua",
+                "repo": "abap-threads",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAPParallelizationService",
+              "description": "Parallelization Framework for ABAP Systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406104522,
+                "language": "ABAP",
+                "last_commit": "2022-01-19T20:39:10Z",
+                "owner": "BiberM",
+                "repo": "ABAPParallelizationService",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-Simple-Async-Framework",
+              "description": "Simple Async Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316537335,
+                "language": "ABAP",
+                "last_commit": "2020-12-15T17:03:06Z",
+                "owner": "MikeSidorochkin",
+                "repo": "ABAP-Simple-Async-Framework",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🛤️ Threading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abap-dev-utilities",
+              "description": "ABAP Development Utilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285622128,
+                "language": "ABAP",
+                "last_commit": "2026-01-27T11:35:59Z",
+                "owner": "jrodriguez-rc",
+                "repo": "abap-dev-utilities",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abaK",
+              "description": "ABAP constants done right",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168578626,
+                "language": "ABAP",
+                "last_commit": "2023-05-01T12:52:18Z",
+                "owner": "abapinho",
+                "repo": "abaK",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-table-maintenance",
+              "description": "Multi target low footprint ABAP table maintenance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437842302,
+                "language": "ABAP",
+                "last_commit": "2026-03-29T19:54:19Z",
+                "owner": "open-abap",
+                "repo": "open-table-maintenance",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zapcommander",
+              "description": "Filecommander (Norton-Commander-Clone) for SAP-Systems (ABAP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210632126,
+                "language": "ABAP",
+                "last_commit": "2025-10-09T11:16:05Z",
+                "owner": "tricktresor",
+                "repo": "zapcommander",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Customers",
+              "description": "Wrapper for CMD_EI_API classes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190016923,
+                "language": "ABAP",
+                "last_commit": "2024-09-11T18:20:33Z",
+                "owner": "fidley",
+                "repo": "Customers",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-Commons",
+              "description": "Providing reusable ABAP components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14528975,
+                "language": "ABAP",
+                "last_commit": "2015-04-15T17:19:42Z",
+                "owner": "HannesRempel",
+                "repo": "ABAP-Commons",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Featuretoggle",
+              "description": "A simple, lightweight feature toggle framework for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90825733,
+                "language": "ABAP",
+                "last_commit": "2018-05-08T14:26:18Z",
+                "owner": "btc-ag",
+                "repo": "Featuretoggle",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-feature-toggle",
+              "description": "Feature toggle for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562860718,
+                "language": "ABAP",
+                "last_commit": "2026-03-25T10:52:42Z",
+                "owner": "raketenstart-abap",
+                "repo": "abap-feature-toggle",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zscv_search_cds_views",
+              "description": "ABAP Search CDS Views Tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609607334,
+                "language": "ABAP",
+                "last_commit": "2024-05-20T11:14:28Z",
+                "owner": "alwinvandeput",
+                "repo": "zscv_search_cds_views",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_seltab_to_where",
+              "description": "Convert ABAP range tables to SQL where clause",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176606085,
+                "language": "ABAP",
+                "last_commit": "2020-11-02T15:15:26Z",
+                "owner": "abapChaoLiu",
+                "repo": "abap_seltab_to_where",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zcx_return3",
+              "description": "ABAP exception lclass for handling all kind of procedural error messages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266102773,
+                "language": "ABAP",
+                "last_commit": "2020-11-09T10:53:16Z",
+                "owner": "alwinvandeput",
+                "repo": "zcx_return3",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elitechat",
+              "description": "abap based instant messaging",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366440190,
+                "language": "HTML",
+                "last_commit": "2023-03-18T14:51:49Z",
+                "owner": "AntonSikidin",
+                "repo": "elitechat",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zspool_pdf",
+              "description": "Submitting a report to the spool and receiving PDF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365030484,
+                "language": "ABAP",
+                "last_commit": "2025-12-10T14:36:23Z",
+                "owner": "victorizbitskiy",
+                "repo": "zspool_pdf",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mime_editor",
+              "description": "SMIM editor in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83204921,
+                "language": "ABAP",
+                "last_commit": "2024-12-23T07:00:50Z",
+                "owner": "larshp",
+                "repo": "mime_editor",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP_TRANSLATION_HUB",
+              "description": "Push Object List to Translation Hub and Pull Translations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334747098,
+                "language": "ABAP",
+                "last_commit": "2023-03-07T15:11:20Z",
+                "owner": "DerGuteWolf",
+                "repo": "ABAP_TRANSLATION_HUB",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_w3mi_poller",
+              "description": "A tool to poll file change and upload changed files automatically as W3MI object",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78275400,
+                "language": "ABAP",
+                "last_commit": "2024-06-06T07:48:37Z",
+                "owner": "sbcgua",
+                "repo": "abap_w3mi_poller",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "synchronize-SAP-GUI-favorites",
+              "description": "simple tool to synchronize SAP GUI favorites between systems and clients",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125764255,
+                "language": "ABAP",
+                "last_commit": "2018-03-19T14:44:15Z",
+                "owner": "Keller-Michael",
+                "repo": "synchronize-SAP-GUI-favorites",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-reference",
+              "description": "Samples and utilities for SAP development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134380602,
+                "language": "ABAP",
+                "last_commit": "2026-05-06T14:40:11Z",
+                "owner": "kkayacan",
+                "repo": "abap-reference",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAPCodeVault",
+              "description": "Reusable code, module specific sample programs, useful FMs, classes and info for ABAP developers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143415399,
+                "language": "ABAP",
+                "last_commit": "2022-03-18T09:35:13Z",
+                "owner": "raymondbonnmendoza",
+                "repo": "ABAPCodeVault",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-archiving-engine",
+              "description": "ABAP Archiving Engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213627821,
+                "language": "ABAP",
+                "last_commit": "2022-06-14T09:48:10Z",
+                "owner": "00500500",
+                "repo": "abap-archiving-engine",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-tbox-splitter",
+              "description": "ABAP utility class to easily split an internal table in different sub-tables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607266768,
+                "language": "ABAP",
+                "last_commit": "2023-06-12T12:57:59Z",
+                "owner": "zenrosadira",
+                "repo": "abap-tbox-splitter",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vise_for_ABAP",
+              "description": "Vise for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14140172,
+                "language": "ABAP",
+                "last_commit": "2021-11-22T19:01:01Z",
+                "owner": "uweku",
+                "repo": "Vise_for_ABAP",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "user-exit-scanner",
+              "description": "Abap user-exit scanner",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 525392826,
+                "language": "ABAP",
+                "last_commit": "2022-09-05T11:47:47Z",
+                "owner": "MDagni",
+                "repo": "user-exit-scanner",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZFPM_TOOLS",
+              "description": "FPM Tools for developers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411178159,
+                "language": "ABAP",
+                "last_commit": "2025-09-09T05:04:54Z",
+                "owner": "boy0korea",
+                "repo": "ZFPM_TOOLS",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MBT-Command-Field",
+              "description": "The world's first enhancement for the SAP® GUI command field",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246881380,
+                "language": "ABAP",
+                "last_commit": "2026-01-22T15:03:44Z",
+                "owner": "Marc-Bernard-Tools",
+                "repo": "MBT-Command-Field",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapTechDocu",
+              "description": "A tool for creating technical documentation",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 416230039,
+                "language": "ABAP",
+                "last_commit": "2023-04-27T07:05:32Z",
+                "owner": "victorizbitskiy",
+                "repo": "abapTechDocu",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RESULT-for-ABAP",
+              "description": "ABAP implementation of the Result-Pattern",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629231374,
+                "language": "ABAP",
+                "last_commit": "2024-11-04T21:00:12Z",
+                "owner": "dominikpanzer",
+                "repo": "RESULT-for-ABAP",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-tbox-stats",
+              "description": "ABAP Statistical Tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607726603,
+                "language": "ABAP",
+                "last_commit": "2023-06-12T13:21:33Z",
+                "owner": "zenrosadira",
+                "repo": "abap-tbox-stats",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-timestamps",
+              "description": "Handle dates, times, and time stamps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602124585,
+                "language": "ABAP",
+                "last_commit": "2024-07-08T18:03:22Z",
+                "owner": "whothefluff",
+                "repo": "abap-timestamps",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🧰 Generic Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "abap-platform-rap-opensap",
+              "description": "Samples for the openSAP course \"Building Apps with the ABAP RESTful Application Programming model (RAP).\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295545969,
+                "language": null,
+                "last_commit": "2026-06-03T08:19:37Z",
+                "owner": "SAP-samples",
+                "repo": "abap-platform-rap-opensap",
+                "stars": 600
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-platform-refscen-flight",
+              "description": "SFlight is back! This is the Flight Reference Scenario for the ABAP RESTful Application Programming Model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150579398,
+                "language": null,
+                "last_commit": "2026-06-23T13:55:02Z",
+                "owner": "SAP-samples",
+                "repo": "abap-platform-refscen-flight",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-platform-rap-workshops",
+              "description": "This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303481780,
+                "language": "ABAP",
+                "last_commit": "2026-06-03T08:59:41Z",
+                "owner": "SAP-samples",
+                "repo": "abap-platform-rap-workshops",
+                "stars": 337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-cheat-sheets",
+              "description": "Explore ABAP syntax in a nutshell supported by executable demo examples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572164505,
+                "language": "ABAP",
+                "last_commit": "2026-08-21T15:04:47Z",
+                "owner": "SAP-samples",
+                "repo": "abap-cheat-sheets",
+                "stars": 1788
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAPDesignPattern",
+              "description": "23 Design Patterns in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23031954,
+                "language": "ABAP",
+                "last_commit": "2019-01-19T09:20:22Z",
+                "owner": "moreus",
+                "repo": "ABAPDesignPattern",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-OOP-Library",
+              "description": "ABAP Object-oriented programming Library",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 8623464,
+                "language": "ABAP",
+                "last_commit": "2017-02-11T21:08:29Z",
+                "owner": "rvanmil",
+                "repo": "ABAP-OOP-Library",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_oo_patterns",
+              "description": "Example implementation of OO design patterns in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97920151,
+                "language": "ABAP",
+                "last_commit": "2019-07-12T15:27:26Z",
+                "owner": "SchwarzIT",
+                "repo": "abap_oo_patterns",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "excrcism/abap",
+              "description": "Exercism exercises in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412114333,
+                "language": "ABAP",
+                "last_commit": "2026-08-18T14:05:01Z",
+                "owner": "exercism",
+                "repo": "abap",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "New-ABAP-Tips-Tricks",
+              "description": "This repository contains new ABAP syntax for S/4HANA Development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581131807,
+                "language": "ABAP",
+                "last_commit": "2025-05-12T03:39:54Z",
+                "owner": "suriyarasu",
+                "repo": "New-ABAP-Tips-Tricks",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gladius",
+              "description": "Learning and challenging with ABAP Unit Test Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95716709,
+                "language": "ABAP",
+                "last_commit": "2019-09-18T20:21:36Z",
+                "owner": "tricktresor",
+                "repo": "gladius",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DesignByContract",
+              "description": "Design by Contract in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417750112,
+                "language": "ABAP",
+                "last_commit": "2021-11-18T06:13:30Z",
+                "owner": "hardyp",
+                "repo": "DesignByContract",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-Lift-Pass-Pricing-Kata",
+              "description": "The Ski Lift Pass Pricing Kata for ABAP Devs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572862394,
+                "language": "ABAP",
+                "last_commit": "2023-05-18T21:50:12Z",
+                "owner": "dominikpanzer",
+                "repo": "ABAP-Lift-Pass-Pricing-Kata",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-Meterdata-Manager",
+              "description": "legacy code refactoring kata based in the utilities domai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573375245,
+                "language": "ABAP",
+                "last_commit": "2023-05-18T21:49:38Z",
+                "owner": "dominikpanzer",
+                "repo": "ABAP-Meterdata-Manager",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "👩‍🎓 Samples & Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ABAP_conways_game_of_life",
+              "description": "Implementation of Conways Game of Life in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86985256,
+                "language": "ABAP",
+                "last_commit": "2025-10-08T13:33:35Z",
+                "owner": "christianguenter2",
+                "repo": "ABAP_conways_game_of_life",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "axage",
+              "description": "ABAP teXt Adventure Game Engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491977392,
+                "language": "ABAP",
+                "last_commit": "2023-06-04T19:56:14Z",
+                "owner": "Ennowulff",
+                "repo": "axage",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abapdicer",
+              "description": "Yahtzee roboter game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206402930,
+                "language": "ABAP",
+                "last_commit": "2021-10-08T16:16:39Z",
+                "owner": "abap-code-dojo",
+                "repo": "abapdicer",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP_quiz_and_paint_game",
+              "description": "some fun game for the SAP Community",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336831347,
+                "language": "ABAP",
+                "last_commit": "2021-02-08T02:28:32Z",
+                "owner": "Keller-Michael",
+                "repo": "ABAP_quiz_and_paint_game",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP-MEMORY-GAME",
+              "description": "Abap Memory Game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422629204,
+                "language": "ABAP",
+                "last_commit": "2021-10-29T15:49:12Z",
+                "owner": "xtbirihan",
+                "repo": "ABAP-MEMORY-GAME",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZwdHangman",
+              "description": "Hangman for SAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115225445,
+                "language": "ABAP",
+                "last_commit": "2020-02-12T15:14:52Z",
+                "owner": "WegnerDan",
+                "repo": "ZwdHangman",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "con4abap",
+              "description": "popular connect four game in ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103987428,
+                "language": "ABAP",
+                "last_commit": "2018-01-04T12:10:40Z",
+                "owner": "lausek",
+                "repo": "con4abap",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "z_doom",
+              "description": "DOOM for SAP GUI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412908020,
+                "language": "CSS",
+                "last_commit": "2025-07-09T13:12:25Z",
+                "owner": "stud0709",
+                "repo": "z_doom",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZICA_ML",
+              "description": "Machine Learning Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27598785,
+                "language": "ABAP",
+                "last_commit": "2014-12-23T13:55:38Z",
+                "owner": "lucattelli",
+                "repo": "ZICA_ML",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap_ml",
+              "description": "Classes and functionality to reproduce basic Machine Learning in ABAP. Starting from vector/matrix API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142409409,
+                "language": "ABAP",
+                "last_commit": "2019-04-24T20:26:24Z",
+                "owner": "allexch",
+                "repo": "abap_ml",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":video_game: Games & Experiments"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Eclipse_ADT_info_hub",
+              "description": "collection of helpful information about ABAP Development Tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216650470,
+                "language": null,
+                "last_commit": "2025-11-29T11:02:40Z",
+                "owner": "Keller-Michael",
+                "repo": "Eclipse_ADT_info_hub",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABAP_starter",
+              "description": "🚀 very basic information to start working with ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286197267,
+                "language": null,
+                "last_commit": "2026-05-15T08:18:00Z",
+                "owner": "Keller-Michael",
+                "repo": "ABAP_starter",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abap-docs",
+              "description": "Enhanced ABAP documentation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289583257,
+                "language": "TypeScript",
+                "last_commit": "2020-09-21T06:30:07Z",
+                "owner": "eduardocopat",
+                "repo": "abap-docs",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CleanABAP",
+              "description": "Guideline to improve the ABAP code quality",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160330293,
+                "language": null,
+                "last_commit": "2018-12-04T09:26:23Z",
+                "owner": "Freedomanda",
+                "repo": "CleanABAP",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ℹ️ Documentation & Informations"
+        }
+      ],
+      "title": "Categories"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T18:01:07.940Z",
+    "last_updated": "2026-08-24T14:46:28.821Z",
     "original_repository": "zenrosadira/abap-florilegium",
     "original_repository_id": 624040742,
     "original_repository_sha": "5ec510ce487237a94e5d0d7f56643efd7547d29a",
