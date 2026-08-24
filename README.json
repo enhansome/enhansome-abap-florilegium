@@ -156,7 +156,7 @@
                 "archived": false,
                 "id": 574401773,
                 "language": "ABAP",
-                "last_commit": "2026-08-24T14:28:50Z",
+                "last_commit": "2026-08-24T15:05:23Z",
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
                 "stars": 373
@@ -1450,7 +1450,7 @@
                 "archived": false,
                 "id": 21115149,
                 "language": "ABAP",
-                "last_commit": "2026-08-24T13:44:51Z",
+                "last_commit": "2026-08-24T15:29:49Z",
                 "owner": "abapGit",
                 "repo": "abapGit",
                 "stars": 1913
@@ -1517,7 +1517,7 @@
                 "archived": false,
                 "id": 48330698,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:44:24Z",
+                "last_commit": "2026-08-24T15:31:30Z",
                 "owner": "abaplint",
                 "repo": "abaplint",
                 "stars": 302
@@ -3089,7 +3089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:28.821Z",
+    "last_updated": "2026-08-24T18:17:28.523Z",
     "original_repository": "zenrosadira/abap-florilegium",
     "original_repository_id": 624040742,
     "original_repository_sha": "5ec510ce487237a94e5d0d7f56643efd7547d29a",
