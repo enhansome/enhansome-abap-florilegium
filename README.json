@@ -156,10 +156,10 @@
                 "archived": false,
                 "id": 574401773,
                 "language": "ABAP",
-                "last_commit": "2026-08-25T13:31:33Z",
+                "last_commit": "2026-08-26T16:08:42Z",
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
-                "stars": 373
+                "stars": 374
               }
             },
             {
@@ -960,7 +960,7 @@
                 "last_commit": "2022-09-11T20:41:49Z",
                 "owner": "valdirmendesdev",
                 "repo": "abap-json-encoder-decoder",
-                "stars": 6
+                "stars": 7
               }
             },
             {
@@ -1338,7 +1338,7 @@
                 "archived": false,
                 "id": 23935101,
                 "language": "ABAP",
-                "last_commit": "2026-08-22T20:45:15Z",
+                "last_commit": "2026-08-25T23:11:40Z",
                 "owner": "ABAP-Logger",
                 "repo": "ABAP-Logger",
                 "stars": 400
@@ -1450,10 +1450,10 @@
                 "archived": false,
                 "id": 21115149,
                 "language": "ABAP",
-                "last_commit": "2026-08-25T17:03:07Z",
+                "last_commit": "2026-08-26T19:15:32Z",
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1913
+                "stars": 1914
               }
             },
             {
@@ -1517,10 +1517,10 @@
                 "archived": false,
                 "id": 48330698,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T15:31:30Z",
+                "last_commit": "2026-08-26T10:33:08Z",
                 "owner": "abaplint",
                 "repo": "abaplint",
-                "stars": 303
+                "stars": 304
               }
             },
             {
@@ -1532,7 +1532,7 @@
                 "archived": false,
                 "id": 149973615,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:25:54Z",
+                "last_commit": "2026-08-26T10:51:02Z",
                 "owner": "abaplint",
                 "repo": "vscode-abaplint",
                 "stars": 35
@@ -1816,7 +1816,7 @@
                 "archived": false,
                 "id": 153752194,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T14:49:16Z",
+                "last_commit": "2026-08-26T13:50:40Z",
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
                 "stars": 377
@@ -2108,10 +2108,10 @@
                 "archived": false,
                 "id": 630896010,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:08:46Z",
+                "last_commit": "2026-08-26T15:36:55Z",
                 "owner": "SAP",
                 "repo": "abap-cleaner",
-                "stars": 654
+                "stars": 655
               }
             }
           ],
@@ -3046,7 +3046,7 @@
                 "last_commit": "2026-05-15T08:18:00Z",
                 "owner": "Keller-Michael",
                 "repo": "ABAP_starter",
-                "stars": 232
+                "stars": 233
               }
             },
             {
@@ -3089,7 +3089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:17:55.140Z",
+    "last_updated": "2026-08-26T19:27:19.016Z",
     "original_repository": "zenrosadira/abap-florilegium",
     "original_repository_id": 624040742,
     "original_repository_sha": "5ec510ce487237a94e5d0d7f56643efd7547d29a",
