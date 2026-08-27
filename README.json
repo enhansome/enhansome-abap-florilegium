@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-20T06:16:56Z",
                 "owner": "abap2xlsx",
                 "repo": "abap2xlsx",
-                "stars": 873
+                "stars": 874
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-03-02T07:27:48Z",
                 "owner": "vidyadharg",
                 "repo": "ABAP-HTML-eMail",
-                "stars": 14
+                "stars": 15
               }
             }
           ],
@@ -156,10 +156,10 @@
                 "archived": false,
                 "id": 574401773,
                 "language": "ABAP",
-                "last_commit": "2026-08-26T16:08:42Z",
+                "last_commit": "2026-08-27T09:50:01Z",
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
-                "stars": 374
+                "stars": 375
               }
             },
             {
@@ -668,7 +668,7 @@
                 "last_commit": "2022-10-26T08:49:17Z",
                 "owner": "OberstVonGatow",
                 "repo": "AbapGenerator",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -885,7 +885,7 @@
                 "last_commit": "2026-08-24T13:32:09Z",
                 "owner": "SAP",
                 "repo": "abap-file-formats",
-                "stars": 108
+                "stars": 109
               }
             },
             {
@@ -1020,7 +1020,7 @@
                 "last_commit": "2025-12-11T08:40:13Z",
                 "owner": "sbcgua",
                 "repo": "abap-string-map",
-                "stars": 17
+                "stars": 18
               }
             },
             {
@@ -1453,7 +1453,7 @@
                 "last_commit": "2026-08-26T19:15:32Z",
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1914
+                "stars": 1915
               }
             },
             {
@@ -1490,7 +1490,7 @@
                 "last_commit": "2026-07-23T13:16:09Z",
                 "owner": "SAP",
                 "repo": "code-pal-for-abap",
-                "stars": 431
+                "stars": 432
               }
             },
             {
@@ -1505,7 +1505,7 @@
                 "last_commit": "2026-05-12T19:46:12Z",
                 "owner": "larshp",
                 "repo": "abapOpenChecks",
-                "stars": 330
+                "stars": 331
               }
             },
             {
@@ -1520,7 +1520,7 @@
                 "last_commit": "2026-08-26T10:33:08Z",
                 "owner": "abaplint",
                 "repo": "abaplint",
-                "stars": 304
+                "stars": 305
               }
             },
             {
@@ -1816,10 +1816,10 @@
                 "archived": false,
                 "id": 153752194,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:50:40Z",
+                "last_commit": "2026-08-27T10:19:45Z",
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
-                "stars": 377
+                "stars": 379
               }
             },
             {
@@ -1834,7 +1834,7 @@
                 "last_commit": "2026-07-14T12:55:51Z",
                 "owner": "microsoft",
                 "repo": "ABAP-SDK-for-Azure",
-                "stars": 194
+                "stars": 195
               }
             },
             {
@@ -2021,7 +2021,7 @@
                 "last_commit": "2025-10-22T06:29:27Z",
                 "owner": "fidley",
                 "repo": "ABAPQuickFix",
-                "stars": 51
+                "stars": 52
               }
             },
             {
@@ -2111,7 +2111,7 @@
                 "last_commit": "2026-08-26T15:36:55Z",
                 "owner": "SAP",
                 "repo": "abap-cleaner",
-                "stars": 655
+                "stars": 656
               }
             }
           ],
@@ -2717,7 +2717,7 @@
                 "last_commit": "2026-08-21T15:04:47Z",
                 "owner": "SAP-samples",
                 "repo": "abap-cheat-sheets",
-                "stars": 1788
+                "stars": 1789
               }
             },
             {
@@ -3089,9 +3089,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:19.016Z",
-    "original_repository": "zenrosadira/abap-florilegium",
-    "original_repository_id": 624040742,
+    "last_updated": "2026-08-27T11:17:49.902Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 624040742,
+      "language": null,
+      "last_commit": "2023-06-11T08:42:52Z",
+      "owner": "zenrosadira",
+      "repo": "abap-florilegium",
+      "stars": 57
+    },
     "original_repository_sha": "5ec510ce487237a94e5d0d7f56643efd7547d29a",
     "enhanced_repository": "enhansome/enhansome-abap-florilegium",
     "enhanced_repository_description": null,
