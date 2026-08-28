@@ -156,10 +156,10 @@
                 "archived": false,
                 "id": 574401773,
                 "language": "ABAP",
-                "last_commit": "2026-08-27T09:50:01Z",
+                "last_commit": "2026-08-27T19:33:46Z",
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
-                "stars": 375
+                "stars": 376
               }
             },
             {
@@ -1450,10 +1450,10 @@
                 "archived": false,
                 "id": 21115149,
                 "language": "ABAP",
-                "last_commit": "2026-08-26T19:15:32Z",
+                "last_commit": "2026-08-28T01:12:10Z",
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1915
+                "stars": 1916
               }
             },
             {
@@ -1517,10 +1517,10 @@
                 "archived": false,
                 "id": 48330698,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:33:08Z",
+                "last_commit": "2026-08-27T16:39:04Z",
                 "owner": "abaplint",
                 "repo": "abaplint",
-                "stars": 305
+                "stars": 306
               }
             },
             {
@@ -1532,7 +1532,7 @@
                 "archived": false,
                 "id": 149973615,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:51:02Z",
+                "last_commit": "2026-08-27T17:06:49Z",
                 "owner": "abaplint",
                 "repo": "vscode-abaplint",
                 "stars": 35
@@ -2560,7 +2560,7 @@
                 "last_commit": "2022-09-05T11:47:47Z",
                 "owner": "MDagni",
                 "repo": "user-exit-scanner",
-                "stars": 8
+                "stars": 9
               }
             },
             {
@@ -2672,7 +2672,7 @@
                 "last_commit": "2026-06-03T08:19:37Z",
                 "owner": "SAP-samples",
                 "repo": "abap-platform-rap-opensap",
-                "stars": 600
+                "stars": 601
               }
             },
             {
@@ -2717,7 +2717,7 @@
                 "last_commit": "2026-08-21T15:04:47Z",
                 "owner": "SAP-samples",
                 "repo": "abap-cheat-sheets",
-                "stars": 1789
+                "stars": 1790
               }
             },
             {
@@ -3089,7 +3089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:49.902Z",
+    "last_updated": "2026-08-28T01:47:16.960Z",
     "original_repository_info": {
       "archived": false,
       "id": 624040742,
