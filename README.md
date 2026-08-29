@@ -31,7 +31,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                     project                                                    |                                description                                |          tags          |
 | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------------------: |
-|         [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx) ⭐ 874 \| 🐛 147 \| 🌐 ABAP \| 📅 2026-04-20        |           Generate your professional Excel spreadsheet from ABAP          |         `excel`        |
+|         [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx) ⭐ 873 \| 🐛 147 \| 🌐 ABAP \| 📅 2026-04-20        |           Generate your professional Excel spreadsheet from ABAP          |         `excel`        |
 |         [zcl\_docx](https://github.com/AntonSikidin/zcl_docx) ⭐ 45 \| 🐛 8 \| 🌐 ABAP \| 📅 2024-01-26         |              Best way to create Microsoft Word docx from abap             |         `word`         |
 |            [zcl\_pdf](https://github.com/beraadim/zcl_pdf) ⭐ 47 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-01-06            | A pure stand alone ABAP class for creating PDFs in SAP on any ABAP system |          `pdf`         |
 |                 [xtt](https://github.com/bizhuka/xtt) ⭐ 41 \| 🐛 3 \| 🌐 ABAP \| 📅 2026-08-25                 |              ABAP template engine for Excel, Word, Html & Pdf             | `excel`, `word`, `pdf` |
@@ -47,7 +47,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                  project                                                                 |                                       description                                      |       tags       |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------: |
-|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 376 \| 🐛 2 \| 🌐 ABAP \| 📅 2026-08-27                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
+|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 377 \| 🐛 2 \| 🌐 ABAP \| 📅 2026-08-29                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
 |                             [falv](https://github.com/fidley/falv) ⭐ 171 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
 |                              [eui](https://github.com/bizhuka/eui) ⭐ 58 \| 🐛 1 \| 🌐 ABAP \| 📅 2026-08-24                              |                                     Easy UI in SAP                                     | `alv`, `screens` |
 |                   [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) ⭐ 35 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-05-12                  |                       ABAP deployment of SAPUI5 apps from Github                       |     `sapui5`     |
@@ -85,7 +85,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 |                                   [envysis](https://github.com/sandraros/envysis) ⭐ 5 \| 🐛 3 \| 🌐 ABAP \| 📅 2023-04-07                                   |                                Environment Analysis for ABAP Workbench Objects (where-used list, etc.)                               |   `finder`  |
 |      [markdown\_from\_table\_or\_structure](https://github.com/Keller-Michael/markdown_from_table_or_structure) ⭐ 4 \| 🐛 0 \| 🌐 ABAP \| 📅 2023-12-30     |                                  🏭 generate Markdown table from internal table or structure in ABAP                                 |  `markdown` |
 |                                      [abap2md](https://github.com/hapejot/abap2md) ⭐ 8 \| 🐛 3 \| 🌐 C \| 📅 2025-11-13                                     |                                                           ABAP to Markdown                                                           |  `markdown` |
-|                 [MBT-Transport-Request](https://github.com/Marc-Bernard-Tools/MBT-Transport-Request) ⭐ 4 \| 🐛 0 \| 🌐 ABAP \| 📅 2025-12-11                |                               The ultimate enhancement for displaying of transport requests in SAP GUI                               | `transport` |
+|                 [MBT-Transport-Request](https://github.com/Marc-Bernard-Tools/MBT-Transport-Request) ⭐ 4 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-08-28                |                               The ultimate enhancement for displaying of transport requests in SAP GUI                               | `transport` |
 |                          [ZEX\_HTML\_EDITOR](https://github.com/abeljohny/ZEX_HTML_EDITOR) ⭐ 3 \| 🐛 1 \| 🌐 ABAP \| 📅 2024-11-09                          |                                           A simple HTML Editor and Browser written in ABAP                                           |    `html`   |
 
 <a name="codetemp" />
@@ -124,7 +124,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 | [abap-json-encoder-decoder](https://github.com/valdirmendesdev/abap-json-encoder-decoder) ⭐ 7 \| 🐛 0 \| 🌐 ABAP \| 📅 2022-09-11 |                             One more JSON Encoder/Decoder in ABAP                             |    `json`   |
 |                       [ZwdCSV](https://github.com/WegnerDan/ZwdCSV) ⭐ 9 \| 🐛 0 \| 🌐 ABAP \| 📅 2025-07-30                       |                               CSV Parser and Generator for ABAP                               |    `csv`    |
 |            [abap-tbox-csvman](https://github.com/zenrosadira/abap-tbox-csvman) ⭐ 12 \| 🐛 0 \| 🌐 ABAP \| 📅 2025-06-14           | ABAP CSV Manager - An easy-to-use and highly configurable tool to read and create CSV in ABAP |    `csv`    |
-|           [ABAP-HTML-Diff](https://github.com/Marc-Bernard-Tools/ABAP-HTML-Diff) ⭐ 6 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-06-28          |        Library to highlight the content difference between two HTML strings (htmldiff)        |    `html`   |
+|           [ABAP-HTML-Diff](https://github.com/Marc-Bernard-Tools/ABAP-HTML-Diff) ⭐ 6 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-08-28          |        Library to highlight the content difference between two HTML strings (htmldiff)        |    `html`   |
 |               [abap-string-map](https://github.com/sbcgua/abap-string-map) ⭐ 18 \| 🐛 1 \| 🌐 ABAP \| 📅 2025-12-11               |                          String map primitive implementation on abap                          | `stringmap` |
 |              [abap\_Filehandler](https://github.com/xamafe/abap_Filehandler) ⭐ 5 \| 🐛 0 \| 🌐 ABAP \| 📅 2020-03-26              |                              Construction to handle Files in ABAP                             |   `files`   |
 
@@ -142,7 +142,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 |          [geohash-abap](https://github.com/hhelibeb/geohash-abap) ⭐ 7 \| 🐛 0 \| 🌐 ABAP \| 📅 2020-10-22          |                Geohash utitlies in ABAP                |   `encryption`   |
 |               [abapPGP](https://github.com/larshp/abapPGP) ⭐ 10 \| 🐛 10 \| 🌐 ABAP \| 📅 2025-09-12               |             ABAP implementation of OpenPGP             |   `encryption`   |
 |                  [uid64](https://github.com/mkysoft/uid64) ⭐ 7 \| 🐛 0 \| 🌐 ABAP \| 📅 2020-09-01                 |                UID-64 generator for ABAP               |      `uuid`      |
-|                 [GeoJson](https://github.com/se38/GeoJson) ⭐ 8 \| 🐛 2 \| 🌐 ABAP \| 📅 2021-02-16                 |         ABAP Classes to create GeoJson strings         |      `json`      |
+|                 [GeoJson](https://github.com/se38/GeoJson) ⭐ 7 \| 🐛 2 \| 🌐 ABAP \| 📅 2021-02-16                 |         ABAP Classes to create GeoJson strings         |      `json`      |
 |              [abap-CSR](https://github.com/sandraros/abap-CSR) ⭐ 5 \| 🐛 0 \| 🌐 ABAP \| 📅 2019-11-11             |              ABAP Charset Recognizer (ICU)             |     `charset`    |
 |   [abapITABOperations](https://github.com/joschkarick/abapITABOperations) ⭐ 1 \| 🐛 0 \| 🌐 ABAP \| 📅 2018-02-14  |     Advanced operations for internal tables in ABAP    |     `tables`     |
 
@@ -180,7 +180,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                  project                                                 |                                                                                                      description                                                                                                     |     tags     |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
-|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,916 \| 🐛 92 \| 🌐 ABAP \| 📅 2026-08-28        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
+|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,917 \| 🐛 89 \| 🌐 ABAP \| 📅 2026-08-28        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
 | [abapTimeMachine](https://github.com/abapinho/abapTimeMachine) ⭐ 68 \| 🐛 19 \| 🌐 ABAP \| 📅 2023-07-31 | ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code) | `versioning` |
 
 <a name="sci" />
@@ -191,8 +191,8 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: |
 |     [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap) ⭐ 432 \| 🐛 34 \| 🌐 ABAP \| 📅 2026-07-23     | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality. |   `inspector`   |
 |      [abapOpenChecks](https://github.com/larshp/abapOpenChecks) ⭐ 331 \| 🐛 308 \| 🌐 ABAP \| 📅 2026-05-12      |                            Open source checks for SAP Code Inspector / ABAP Test Cockpit                            |   `inspector`   |
-|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 306 \| 🐛 429 \| 🌐 TypeScript \| 📅 2026-08-27        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
-|  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-08-27  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
+|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 306 \| 🐛 430 \| 🌐 TypeScript \| 📅 2026-08-28        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
+|  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-08-28  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
 | [abaplint-sci-client](https://github.com/abaplint/abaplint-sci-client) ⭐ 43 \| 🐛 18 \| 🌐 ABAP \| 📅 2026-05-24 |                                    ABAP part for running abaplint on ABAP backend                                   |     `linter`    |
 |                [vscode-abap](https://github.com/larshp/vscode-abap) ⭐ 34 \| 🐛 9 \| 📅 2024-07-17                |                                   ABAP syntax highlighting for Visual Studio Code                                   |      `vsc`      |
 |      [abap-metrics-provider](https://github.com/abap-observability-tools/abap-metrics-provider) ⚠️ Archived      |     Let's you use predefined or custom metrics to monitor your abap stack with a monitoring tool of your choice     |  `performance`  |
@@ -224,7 +224,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                project                                                               |                                          description                                         |       tags       |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :--------------: |
-| [vscode\_abap\_remote\_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) ⭐ 379 \| 🐛 29 \| 🌐 TypeScript \| 📅 2026-08-27 |                              Remote filesystem for ABAP systems                              |       `vsc`      |
+| [vscode\_abap\_remote\_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) ⭐ 380 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-08-27 |                              Remote filesystem for ABAP systems                              |       `vsc`      |
 |            [ABAP-SDK-for-Azure](https://github.com/microsoft/ABAP-SDK-for-Azure) ⭐ 195 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-07-14           |                 ABAP Libraries for SAP native Integration with Azure Services                |      `azure`     |
 |                    [abap2gapps](https://github.com/ivanfemia/abap2gapps) ⭐ 15 \| 🐛 0 \| 🌐 ABAP \| 📅 2018-08-30                    |                             ABAP API for Google Apps integration                             |     `google`     |
 |               [abap2gsheet](https://github.com/techedgegroup-sap/abap2gsheet) ⭐ 13 \| 🐛 2 \| 🌐 ABAP \| 📅 2020-01-15               |                      ABAP framework that abstract the Google Sheets API                      |     `google`     |
@@ -251,7 +251,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 |      [abap-tags-backend](https://github.com/stockbal/abap-tags-backend) ⭐ 10 \| 🐛 2 \| 🌐 ABAP \| 📅 2026-01-02      |                      ADT Backend for ABAP Tags Plugin                     |        `adt`        |
 | [ABAP-Project-Extensions](https://github.com/fidley/ABAP-Project-Extensions) ⭐ 12 \| 🐛 5 \| 🌐 Java \| 📅 2025-10-22 |                          ABAP-Project-Extensions                          |        `adt`        |
 |                  [abapCI](https://github.com/andau/abapCI) ⭐ 63 \| 🐛 12 \| 🌐 Java \| 📅 2020-10-26                  |                      Continuous Integration for ABAP                      |     `CI`, `adt`     |
-|            [abap-cleaner](https://github.com/SAP/abap-cleaner) ⭐ 656 \| 🐛 122 \| 🌐 Java \| 📅 2026-08-26            | ABAP cleaner applies 55+ cleanup rules to ABAP code at a single keystroke | `adt`, `clean-code` |
+|            [abap-cleaner](https://github.com/SAP/abap-cleaner) ⭐ 656 \| 🐛 120 \| 🌐 Java \| 📅 2026-08-26            | ABAP cleaner applies 55+ cleanup rules to ABAP code at a single keystroke | `adt`, `clean-code` |
 
 <a name="thr" />
 
@@ -297,7 +297,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 |                 [user-exit-scanner](https://github.com/MDagni/user-exit-scanner) ⭐ 9 \| 🐛 0 \| 🌐 ABAP \| 📅 2022-09-05                 |                                      Abap user-exit scanner                                      |       `finder`      |
 |                          [ABAP-Check-Translations](https://github.com/juansebastiansoto/ABAP-Check-Translations)                         |                         Report to check the translations elements in ABAP                        |    `translation`    |
 |                  [ZFPM\_TOOLS](https://github.com/boy0korea/ZFPM_TOOLS#english) ⭐ 4 \| 🐛 0 \| 🌐 ABAP \| 📅 2025-09-09                  |                                     FPM Tools for developers                                     |        `fpm`        |
-|           [MBT-Command-Field](https://github.com/Marc-Bernard-Tools/MBT-Command-Field) ⭐ 5 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-01-22           |                   The world's first enhancement for the SAP® GUI command field                   |        `gui`        |
+|           [MBT-Command-Field](https://github.com/Marc-Bernard-Tools/MBT-Command-Field) ⭐ 5 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-08-28           |                   The world's first enhancement for the SAP® GUI command field                   |        `gui`        |
 |                                [abapTechDocu](https://github.com/victorizbitskiy/abapTechDocu) ⚠️ Archived                               |                            A tool for creating technical documentation                           |       `tools`       |
 |               [RESULT-for-ABAP](https://github.com/dominikpanzer/RESULT-for-ABAP) ⭐ 36 \| 🐛 1 \| 🌐 ABAP \| 📅 2024-11-04               |                             ABAP implementation of the Result-Pattern                            |   `designpatterns`  |
 |                [abap-tbox-stats](https://github.com/zenrosadira/abap-tbox-stats) ⭐ 12 \| 🐛 0 \| 🌐 ABAP \| 📅 2023-06-12                |                                       ABAP Statistical Tool                                      |     `statistics`    |
@@ -312,7 +312,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 |         [abap-platform-rap-opensap](https://github.com/SAP-samples/abap-platform-rap-opensap) ⭐ 601 \| 🐛 13 \| 📅 2026-06-03        |   Samples for the openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."  |   `abap RAP`  |
 |      [abap-platform-refscen-flight](https://github.com/SAP-samples/abap-platform-refscen-flight) ⭐ 343 \| 🐛 3 \| 📅 2026-06-23      |  SFlight is back! This is the Flight Reference Scenario for the ABAP RESTful Application Programming Model.  |   `abap RAP`  |
 | [abap-platform-rap-workshops](https://github.com/SAP-samples/abap-platform-rap-workshops) ⭐ 337 \| 🐛 17 \| 🌐 ABAP \| 📅 2026-06-03 | This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP). |   `abap RAP`  |
-|           [abap-cheat-sheets](https://github.com/SAP-samples/abap-cheat-sheets) ⭐ 1,790 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-08-21          |                    Explore ABAP syntax in a nutshell supported by executable demo examples                   | `cheat-sheet` |
+|           [abap-cheat-sheets](https://github.com/SAP-samples/abap-cheat-sheets) ⭐ 1,790 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-08-28          |                    Explore ABAP syntax in a nutshell supported by executable demo examples                   | `cheat-sheet` |
 |              [ABAPDesignPattern](https://github.com/moreus/ABAPDesignPattern) ⭐ 159 \| 🐛 3 \| 🌐 ABAP \| 📅 2019-01-19              |                                          23 Design Patterns in ABAP                                          |     `oop`     |
 |                              [ABAP-OOP-Library](https://github.com/rvanmil/ABAP-OOP-Library) ⚠️ Archived                             |                                   ABAP Object-oriented programming Library                                   |     `oop`     |
 |             [abap\_oo\_patterns](https://github.com/SchwarzIT/abap_oo_patterns) ⭐ 102 \| 🐛 2 \| 🌐 ABAP \| 📅 2019-07-12            |                             Example implementation of OO design patterns in ABAP                             |     `oop`     |
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
