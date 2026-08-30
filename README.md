@@ -47,7 +47,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                  project                                                                 |                                       description                                      |       tags       |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------: |
-|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 378 \| 🐛 2 \| 🌐 ABAP \| 📅 2026-08-29                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
+|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 378 \| 🐛 2 \| 🌐 ABAP \| 📅 2026-08-30                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
 |                             [falv](https://github.com/fidley/falv) ⭐ 171 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
 |                              [eui](https://github.com/bizhuka/eui) ⭐ 58 \| 🐛 1 \| 🌐 ABAP \| 📅 2026-08-24                              |                                     Easy UI in SAP                                     | `alv`, `screens` |
 |                   [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) ⭐ 35 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-05-12                  |                       ABAP deployment of SAPUI5 apps from Github                       |     `sapui5`     |
@@ -180,7 +180,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                  project                                                 |                                                                                                      description                                                                                                     |     tags     |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
-|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,919 \| 🐛 89 \| 🌐 ABAP \| 📅 2026-08-28        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
+|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,919 \| 🐛 92 \| 🌐 ABAP \| 📅 2026-08-30        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
 | [abapTimeMachine](https://github.com/abapinho/abapTimeMachine) ⭐ 68 \| 🐛 19 \| 🌐 ABAP \| 📅 2023-07-31 | ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code) | `versioning` |
 
 <a name="sci" />
@@ -309,14 +309,14 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                project                                                               |                                                  description                                                 |      tags     |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------: |
-|         [abap-platform-rap-opensap](https://github.com/SAP-samples/abap-platform-rap-opensap) ⭐ 601 \| 🐛 13 \| 📅 2026-06-03        |   Samples for the openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."  |   `abap RAP`  |
-|      [abap-platform-refscen-flight](https://github.com/SAP-samples/abap-platform-refscen-flight) ⭐ 343 \| 🐛 3 \| 📅 2026-06-23      |  SFlight is back! This is the Flight Reference Scenario for the ABAP RESTful Application Programming Model.  |   `abap RAP`  |
-| [abap-platform-rap-workshops](https://github.com/SAP-samples/abap-platform-rap-workshops) ⭐ 337 \| 🐛 17 \| 🌐 ABAP \| 📅 2026-06-03 | This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP). |   `abap RAP`  |
-|           [abap-cheat-sheets](https://github.com/SAP-samples/abap-cheat-sheets) ⭐ 1,790 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-08-28          |                    Explore ABAP syntax in a nutshell supported by executable demo examples                   | `cheat-sheet` |
+|         [abap-platform-rap-opensap](https://github.com/SAP-samples/abap-platform-rap-opensap) ⭐ 603 \| 🐛 13 \| 📅 2026-06-03        |   Samples for the openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."  |   `abap RAP`  |
+|      [abap-platform-refscen-flight](https://github.com/SAP-samples/abap-platform-refscen-flight) ⭐ 344 \| 🐛 3 \| 📅 2026-06-23      |  SFlight is back! This is the Flight Reference Scenario for the ABAP RESTful Application Programming Model.  |   `abap RAP`  |
+| [abap-platform-rap-workshops](https://github.com/SAP-samples/abap-platform-rap-workshops) ⭐ 338 \| 🐛 17 \| 🌐 ABAP \| 📅 2026-06-03 | This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP). |   `abap RAP`  |
+|           [abap-cheat-sheets](https://github.com/SAP-samples/abap-cheat-sheets) ⭐ 1,791 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-08-28          |                    Explore ABAP syntax in a nutshell supported by executable demo examples                   | `cheat-sheet` |
 |              [ABAPDesignPattern](https://github.com/moreus/ABAPDesignPattern) ⭐ 159 \| 🐛 3 \| 🌐 ABAP \| 📅 2019-01-19              |                                          23 Design Patterns in ABAP                                          |     `oop`     |
 |                              [ABAP-OOP-Library](https://github.com/rvanmil/ABAP-OOP-Library) ⚠️ Archived                             |                                   ABAP Object-oriented programming Library                                   |     `oop`     |
 |             [abap\_oo\_patterns](https://github.com/SchwarzIT/abap_oo_patterns) ⭐ 102 \| 🐛 2 \| 🌐 ABAP \| 📅 2019-07-12            |                             Example implementation of OO design patterns in ABAP                             |     `oop`     |
-|                      [excrcism/abap](https://github.com/exercism/abap) ⭐ 94 \| 🐛 18 \| 🌐 ABAP \| 📅 2026-08-18                     |                                          Exercism exercises in ABAP                                          |  `exercises`  |
+|                      [excrcism/abap](https://github.com/exercism/abap) ⭐ 94 \| 🐛 16 \| 🌐 ABAP \| 📅 2026-08-30                     |                                          Exercism exercises in ABAP                                          |  `exercises`  |
 |          [New-ABAP-Tips-Tricks](https://github.com/suriyarasu/New-ABAP-Tips-Tricks) ⭐ 58 \| 🐛 2 \| 🌐 ABAP \| 📅 2025-05-12         |                       This repository contains new ABAP syntax for S/4HANA Development                       |   `language`  |
 |                      [gladius](https://github.com/tricktresor/gladius) ⭐ 15 \| 🐛 2 \| 🌐 ABAP \| 📅 2019-09-18                      |                            Learning and challenging with ABAP Unit Test Framework                            |   `testing`   |
 |                [DesignByContract](https://github.com/hardyp/DesignByContract) ⭐ 6 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-11-18                |                                          Design by Contract in ABAP                                          |     `oop`     |
@@ -347,7 +347,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 |                                                      project                                                     |                           description                          |    tags    |
 | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------: |
 | [Eclipse\_ADT\_info\_hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub) ⭐ 111 \| 🐛 0 \| 📅 2025-11-29 | collection of helpful information about ABAP Development Tools |   `info`   |
-|          [ABAP\_starter](https://github.com/Keller-Michael/ABAP_starter) ⭐ 233 \| 🐛 0 \| 📅 2026-05-15          |      🚀 very basic information to start working with ABAP      |   `info`   |
+|          [ABAP\_starter](https://github.com/Keller-Michael/ABAP_starter) ⭐ 234 \| 🐛 0 \| 📅 2026-05-15          |      🚀 very basic information to start working with ABAP      |   `info`   |
 |       [abap-docs](https://github.com/eduardocopat/abap-docs) ⭐ 35 \| 🐛 3 \| 🌐 TypeScript \| 📅 2020-09-21      |                   Enhanced ABAP documentation                  |   `docs`   |
 |                [CleanABAP](https://github.com/Freedomanda/CleanABAP) ⭐ 33 \| 🐛 1 \| 📅 2018-12-04               |           Guideline to improve the ABAP code quality           | `language` |
 
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

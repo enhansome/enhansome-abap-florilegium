@@ -270,7 +270,7 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-08-29T19:29:58Z",
+                "last_commit": "2026-08-30T19:52:50Z",
                 "open_issues": 2,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
@@ -2304,8 +2304,8 @@
                 "id": 21115149,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:26:14Z",
-                "open_issues": 89,
+                "last_commit": "2026-08-30T20:00:12Z",
+                "open_issues": 92,
                 "owner": "abapGit",
                 "repo": "abapGit",
                 "stars": 1919,
@@ -4234,7 +4234,7 @@
                 "open_issues": 13,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-rap-opensap",
-                "stars": 601,
+                "stars": 603,
                 "topics": [
                   "abap",
                   "abap-restful",
@@ -4262,7 +4262,7 @@
                 "open_issues": 3,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-refscen-flight",
-                "stars": 343,
+                "stars": 344,
                 "topics": [
                   "abap",
                   "abap-environment",
@@ -4293,7 +4293,7 @@
                 "open_issues": 17,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-rap-workshops",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "abap",
                   "abap-restful",
@@ -4322,7 +4322,7 @@
                 "open_issues": 0,
                 "owner": "SAP-samples",
                 "repo": "abap-cheat-sheets",
-                "stars": 1790,
+                "stars": 1791,
                 "topics": [
                   "abap",
                   "abap-cds",
@@ -4414,8 +4414,8 @@
                 "id": 412114333,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-08-18T14:05:01Z",
-                "open_issues": 18,
+                "last_commit": "2026-08-30T18:11:37Z",
+                "open_issues": 16,
                 "owner": "exercism",
                 "repo": "abap",
                 "stars": 94,
@@ -4816,7 +4816,7 @@
                 "open_issues": 0,
                 "owner": "Keller-Michael",
                 "repo": "ABAP_starter",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "abap",
                   "abap-development",
@@ -4884,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:00:12.933Z",
+    "last_updated": "2026-08-30T20:07:01.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
