@@ -270,8 +270,8 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:52:37Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-04T13:05:09Z",
+                "open_issues": 3,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
                 "stars": 379,
@@ -479,7 +479,7 @@
                 "id": 239386136,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-08-18T20:56:00Z",
+                "last_commit": "2026-09-04T19:21:25Z",
                 "open_issues": 0,
                 "owner": "ysichov",
                 "repo": "Simple-Data-Explorer",
@@ -1454,7 +1454,7 @@
                 "open_issues": 23,
                 "owner": "sbcgua",
                 "repo": "ajson",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "abap",
                   "hacktoberfest",
@@ -2305,10 +2305,10 @@
                 "language": "ABAP",
                 "license": "MIT",
                 "last_commit": "2026-09-03T13:57:09Z",
-                "open_issues": 86,
+                "open_issues": 88,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1924,
+                "stars": 1925,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2429,7 +2429,7 @@
                 "id": 48330698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:21:22Z",
+                "last_commit": "2026-09-04T14:37:25Z",
                 "open_issues": 429,
                 "owner": "abaplint",
                 "repo": "abaplint",
@@ -4234,7 +4234,7 @@
                 "open_issues": 13,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-rap-opensap",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "abap",
                   "abap-restful",
@@ -4293,7 +4293,7 @@
                 "open_issues": 17,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-rap-workshops",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "abap",
                   "abap-restful",
@@ -4322,7 +4322,7 @@
                 "open_issues": 0,
                 "owner": "SAP-samples",
                 "repo": "abap-cheat-sheets",
-                "stars": 1796,
+                "stars": 1797,
                 "topics": [
                   "abap",
                   "abap-cds",
@@ -4884,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:09:23.267Z",
+    "last_updated": "2026-09-04T19:55:10.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
