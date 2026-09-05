@@ -270,8 +270,8 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-04T13:05:09Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-05T13:09:11Z",
+                "open_issues": 4,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
                 "stars": 379,
@@ -483,7 +483,7 @@
                 "open_issues": 0,
                 "owner": "ysichov",
                 "repo": "Simple-Data-Explorer",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "abap",
                   "data",
@@ -2304,11 +2304,11 @@
                 "id": 21115149,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-03T13:57:09Z",
-                "open_issues": 88,
+                "last_commit": "2026-09-05T10:47:49Z",
+                "open_issues": 87,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2429,11 +2429,11 @@
                 "id": 48330698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T14:37:25Z",
+                "last_commit": "2026-09-05T12:26:22Z",
                 "open_issues": 429,
                 "owner": "abaplint",
                 "repo": "abaplint",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "abap",
                   "abaplint",
@@ -4884,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:55:10.652Z",
+    "last_updated": "2026-09-05T19:35:36.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
