@@ -270,7 +270,7 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:09:11Z",
+                "last_commit": "2026-09-05T20:22:40Z",
                 "open_issues": 4,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
@@ -2305,7 +2305,7 @@
                 "language": "ABAP",
                 "license": "MIT",
                 "last_commit": "2026-09-05T10:47:49Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "abapGit",
                 "repo": "abapGit",
                 "stars": 1926,
@@ -2372,7 +2372,7 @@
                 "open_issues": 34,
                 "owner": "SAP",
                 "repo": "code-pal-for-abap",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -4884,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:35:36.003Z",
+    "last_updated": "2026-09-06T19:37:07.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",

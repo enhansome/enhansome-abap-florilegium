@@ -180,7 +180,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                  project                                                 |                                                                                                      description                                                                                                     |     tags     |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
-|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,926 \| 🐛 87 \| 🌐 ABAP \| 📅 2026-09-05        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
+|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,926 \| 🐛 88 \| 🌐 ABAP \| 📅 2026-09-05        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
 | [abapTimeMachine](https://github.com/abapinho/abapTimeMachine) ⭐ 68 \| 🐛 19 \| 🌐 ABAP \| 📅 2023-07-31 | ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code) | `versioning` |
 
 <a name="sci" />
@@ -189,7 +189,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                      project                                                     |                                                     description                                                     |       tags      |
 | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: |
-|     [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap) ⭐ 432 \| 🐛 34 \| 🌐 ABAP \| 📅 2026-07-23     | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality. |   `inspector`   |
+|     [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap) ⭐ 433 \| 🐛 34 \| 🌐 ABAP \| 📅 2026-07-23     | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality. |   `inspector`   |
 |      [abapOpenChecks](https://github.com/larshp/abapOpenChecks) ⭐ 331 \| 🐛 308 \| 🌐 ABAP \| 📅 2026-09-02      |                            Open source checks for SAP Code Inspector / ABAP Test Cockpit                            |   `inspector`   |
 |        [abaplint](https://github.com/abaplint/abaplint) ⭐ 307 \| 🐛 429 \| 🌐 TypeScript \| 📅 2026-09-05        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
 |  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-09-02  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
