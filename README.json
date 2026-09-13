@@ -21,7 +21,7 @@
                 "open_issues": 147,
                 "owner": "abap2xlsx",
                 "repo": "abap2xlsx",
-                "stars": 873,
+                "stars": 872,
                 "topics": [
                   "abap",
                   "backend",
@@ -270,8 +270,8 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-12T16:03:56Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-13T18:56:49Z",
+                "open_issues": 5,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
                 "stars": 381,
@@ -1426,11 +1426,11 @@
                 "id": 339325036,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-08T12:43:01Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-13T05:03:50Z",
+                "open_issues": 50,
                 "owner": "SAP",
                 "repo": "abap-file-formats",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "abap",
                   "abap-file-formats"
@@ -1454,7 +1454,7 @@
                 "open_issues": 23,
                 "owner": "sbcgua",
                 "repo": "ajson",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "abap",
                   "hacktoberfest",
@@ -2304,11 +2304,11 @@
                 "id": 21115149,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-12T12:10:05Z",
-                "open_issues": 89,
+                "last_commit": "2026-09-13T13:31:50Z",
+                "open_issues": 90,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1930,
+                "stars": 1931,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2914,7 +2914,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-09T08:38:00Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
                 "stars": 391,
@@ -4262,7 +4262,7 @@
                 "open_issues": 3,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-refscen-flight",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "abap",
                   "abap-environment",
@@ -4816,7 +4816,7 @@
                 "open_issues": 0,
                 "owner": "Keller-Michael",
                 "repo": "ABAP_starter",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "abap",
                   "abap-development",
@@ -4884,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:40:12.256Z",
+    "last_updated": "2026-09-13T19:53:21.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
@@ -4896,7 +4896,7 @@
       "open_issues": 0,
       "owner": "zenrosadira",
       "repo": "abap-florilegium",
-      "stars": 57,
+      "stars": 59,
       "topics": [
         "abap",
         "awesome",
