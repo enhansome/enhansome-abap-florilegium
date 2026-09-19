@@ -47,7 +47,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                  project                                                                 |                                       description                                      |       tags       |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------: |
-|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 380 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-09-18                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
+|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 380 \| 🐛 5 \| 🌐 ABAP \| 📅 2026-09-19                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
 |                             [falv](https://github.com/fidley/falv) ⭐ 172 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
 |                              [eui](https://github.com/bizhuka/eui) ⭐ 59 \| 🐛 1 \| 🌐 ABAP \| 📅 2026-09-14                              |                                     Easy UI in SAP                                     | `alv`, `screens` |
 |                   [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) ⭐ 35 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-05-12                  |                       ABAP deployment of SAPUI5 apps from Github                       |     `sapui5`     |
@@ -191,8 +191,8 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: |
 |     [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap) ⭐ 435 \| 🐛 35 \| 🌐 ABAP \| 📅 2026-07-23     | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality. |   `inspector`   |
 |      [abapOpenChecks](https://github.com/larshp/abapOpenChecks) ⭐ 332 \| 🐛 308 \| 🌐 ABAP \| 📅 2026-09-02      |                            Open source checks for SAP Code Inspector / ABAP Test Cockpit                            |   `inspector`   |
-|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 308 \| 🐛 427 \| 🌐 TypeScript \| 📅 2026-09-18        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
-|  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-09-14  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
+|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 309 \| 🐛 429 \| 🌐 TypeScript \| 📅 2026-09-19        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
+|  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-09-19  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
 | [abaplint-sci-client](https://github.com/abaplint/abaplint-sci-client) ⭐ 43 \| 🐛 18 \| 🌐 ABAP \| 📅 2026-05-24 |                                    ABAP part for running abaplint on ABAP backend                                   |     `linter`    |
 |                [vscode-abap](https://github.com/larshp/vscode-abap) ⭐ 34 \| 🐛 9 \| 📅 2024-07-17                |                                   ABAP syntax highlighting for Visual Studio Code                                   |      `vsc`      |
 |      [abap-metrics-provider](https://github.com/abap-observability-tools/abap-metrics-provider) ⚠️ Archived      |     Let's you use predefined or custom metrics to monitor your abap stack with a monitoring tool of your choice     |  `performance`  |
@@ -242,7 +242,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                        project                                                        |                                description                                |         tags        |
 | :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: |
-|    [abap-adt-api](https://github.com/marcellourbani/abap-adt-api) ⭐ 116 \| 🐛 11 \| 🌐 TypeScript \| 📅 2026-08-20    |                        Abap Developer Tools client                        |        `adt`        |
+|    [abap-adt-api](https://github.com/marcellourbani/abap-adt-api) ⭐ 116 \| 🐛 12 \| 🌐 TypeScript \| 📅 2026-08-20    |                        Abap Developer Tools client                        |        `adt`        |
 |            [ABAPFavories](https://github.com/fidley/ABAPFavorites) ⭐ 44 \| 🐛 4 \| 🌐 Java \| 📅 2025-06-10           |                       ABAP Favorites Eclipse Plugin                       |        `adt`        |
 |            [ABAPQuickFix](https://github.com/fidley/ABAPQuickFix) ⭐ 52 \| 🐛 3 \| 🌐 Java \| 📅 2025-10-22            |                                ABAPQuickFix                               |        `adt`        |
 |    [eclipse-abap-keywordcolors](https://github.com/FreHu/eclipse-abap-keywordcolors) ⭐ 34 \| 🐛 0 \| 📅 2021-05-03    |                 Customized ABAP keyword colors for eclipse                |        `adt`        |
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
