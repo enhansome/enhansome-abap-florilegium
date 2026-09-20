@@ -21,7 +21,7 @@
                 "open_issues": 148,
                 "owner": "abap2xlsx",
                 "repo": "abap2xlsx",
-                "stars": 875,
+                "stars": 876,
                 "topics": [
                   "abap",
                   "backend",
@@ -79,7 +79,7 @@
                 "open_issues": 0,
                 "owner": "beraadim",
                 "repo": "zcl_pdf",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:22.628Z"
@@ -270,8 +270,8 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-19T12:40:16Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-20T13:31:20Z",
+                "open_issues": 4,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
                 "stars": 380,
@@ -2304,11 +2304,11 @@
                 "id": 21115149,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-18T08:49:06Z",
+                "last_commit": "2026-09-20T08:15:27Z",
                 "open_issues": 87,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1938,
+                "stars": 1941,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2429,11 +2429,11 @@
                 "id": 48330698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T09:02:03Z",
-                "open_issues": 429,
+                "last_commit": "2026-09-20T09:36:13Z",
+                "open_issues": 425,
                 "owner": "abaplint",
                 "repo": "abaplint",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "abap",
                   "abaplint",
@@ -2458,7 +2458,7 @@
                 "id": 149973615,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T09:18:41Z",
+                "last_commit": "2026-09-20T10:08:07Z",
                 "open_issues": 61,
                 "owner": "abaplint",
                 "repo": "vscode-abaplint",
@@ -2914,10 +2914,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T19:09:53Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
-                "stars": 391,
+                "stars": 390,
                 "topics": [
                   "abap",
                   "hacktoberfest"
@@ -3080,7 +3080,7 @@
                 "open_issues": 9,
                 "owner": "provideplatform",
                 "repo": "provide-abap",
-                "stars": 9,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:22.628Z"
@@ -4884,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:37:01.686Z",
+    "last_updated": "2026-09-20T19:50:42.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
