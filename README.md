@@ -47,7 +47,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                  project                                                                 |                                       description                                      |       tags       |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------: |
-|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 381 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-09-26                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
+|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 381 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-09-27                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
 |                             [falv](https://github.com/fidley/falv) ⭐ 172 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
 |                              [eui](https://github.com/bizhuka/eui) ⭐ 59 \| 🐛 1 \| 🌐 ABAP \| 📅 2026-09-26                              |                                     Easy UI in SAP                                     | `alv`, `screens` |
 |                   [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) ⭐ 35 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-05-12                  |                       ABAP deployment of SAPUI5 apps from Github                       |     `sapui5`     |
@@ -224,7 +224,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                project                                                               |                                          description                                         |       tags       |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :--------------: |
-| [vscode\_abap\_remote\_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) ⭐ 393 \| 🐛 17 \| 🌐 TypeScript \| 📅 2026-09-26 |                              Remote filesystem for ABAP systems                              |       `vsc`      |
+| [vscode\_abap\_remote\_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) ⭐ 394 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-09-27 |                              Remote filesystem for ABAP systems                              |       `vsc`      |
 |            [ABAP-SDK-for-Azure](https://github.com/microsoft/ABAP-SDK-for-Azure) ⭐ 196 \| 🐛 5 \| 🌐 ABAP \| 📅 2026-07-14           |                 ABAP Libraries for SAP native Integration with Azure Services                |      `azure`     |
 |                    [abap2gapps](https://github.com/ivanfemia/abap2gapps) ⭐ 15 \| 🐛 0 \| 🌐 ABAP \| 📅 2018-08-30                    |                             ABAP API for Google Apps integration                             |     `google`     |
 |               [abap2gsheet](https://github.com/techedgegroup-sap/abap2gsheet) ⭐ 14 \| 🐛 2 \| 🌐 ABAP \| 📅 2020-01-15               |                      ABAP framework that abstract the Google Sheets API                      |     `google`     |
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

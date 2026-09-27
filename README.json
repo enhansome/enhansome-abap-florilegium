@@ -270,7 +270,7 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-09-26T17:25:14Z",
+                "last_commit": "2026-09-27T20:22:48Z",
                 "open_issues": 4,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
@@ -2913,11 +2913,11 @@
                 "id": 153752194,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T17:23:22Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-27T08:23:28Z",
+                "open_issues": 16,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "abap",
                   "hacktoberfest"
@@ -4884,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T20:11:33.610Z",
+    "last_updated": "2026-09-27T20:27:43.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
