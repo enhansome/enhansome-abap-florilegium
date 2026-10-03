@@ -47,7 +47,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                  project                                                                 |                                       description                                      |       tags       |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------: |
-|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 381 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-10-02                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
+|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 381 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-10-03                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
 |                             [falv](https://github.com/fidley/falv) ⭐ 172 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
 |                              [eui](https://github.com/bizhuka/eui) ⭐ 59 \| 🐛 1 \| 🌐 ABAP \| 📅 2026-09-26                              |                                     Easy UI in SAP                                     | `alv`, `screens` |
 |                   [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) ⭐ 35 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-05-12                  |                       ABAP deployment of SAPUI5 apps from Github                       |     `sapui5`     |
@@ -116,7 +116,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :---------: |
 |               [abap\_fm\_json](https://github.com/cesar-sap/abap_fm_json) ⭐ 122 \| 🐛 5 \| 🌐 ABAP \| 📅 2026-07-29               |                             JSON adapter for ABAP Function Modules                            |    `json`   |
 |                 [JSON2ABAPType](https://github.com/fidley/JSON2ABAPType) ⭐ 80 \| 🐛 1 \| 🌐 ABAP \| 📅 2025-05-29                 |                       Creator of ABAP types on a base of JSON structure                       |    `json`   |
-|              [abap-file-formats](https://github.com/SAP/abap-file-formats) ⭐ 113 \| 🐛 45 \| 🌐 ABAP \| 📅 2026-09-29             |   File formats that define and specify the file representation for ABAP development objects   |    `json`   |
+|              [abap-file-formats](https://github.com/SAP/abap-file-formats) ⭐ 113 \| 🐛 46 \| 🌐 ABAP \| 📅 2026-09-29             |   File formats that define and specify the file representation for ABAP development objects   |    `json`   |
 |                         [ajson](https://github.com/sbcgua/ajson) ⭐ 74 \| 🐛 27 \| 🌐 ABAP \| 📅 2026-09-14                        |                          Yet another json parser serializer for ABAP                          |    `json`   |
 |               [zcl\_mdp\_json](https://github.com/fatihpense/zcl_mdp_json) ⭐ 22 \| 🐛 10 \| 🌐 ABAP \| 📅 2019-04-04              |               MDP ABAP JSON library that can generate and parse any JSON string               |    `json`   |
 |           [CommonRegexABAP](https://github.com/dmitry-zharinov/CommonRegexABAP) ⭐ 7 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-02-23           |                                   CommonRegex port for ABAP                                   |   `regex`   |
@@ -180,7 +180,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                  project                                                 |                                                                                                      description                                                                                                     |     tags     |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
-|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,948 \| 🐛 94 \| 🌐 ABAP \| 📅 2026-10-02        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
+|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,948 \| 🐛 92 \| 🌐 ABAP \| 📅 2026-10-03        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
 | [abapTimeMachine](https://github.com/abapinho/abapTimeMachine) ⭐ 68 \| 🐛 19 \| 🌐 ABAP \| 📅 2023-07-31 | ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code) | `versioning` |
 
 <a name="sci" />
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
