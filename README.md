@@ -47,7 +47,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                  project                                                                 |                                       description                                      |       tags       |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------: |
-|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 384 \| 🐛 6 \| 🌐 ABAP \| 📅 2026-10-10                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
+|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 385 \| 🐛 8 \| 🌐 ABAP \| 📅 2026-10-11                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
 |                             [falv](https://github.com/fidley/falv) ⭐ 172 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
 |                              [eui](https://github.com/bizhuka/eui) ⭐ 59 \| 🐛 1 \| 🌐 ABAP \| 📅 2026-09-26                              |                                     Easy UI in SAP                                     | `alv`, `screens` |
 |                   [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) ⭐ 35 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-05-12                  |                       ABAP deployment of SAPUI5 apps from Github                       |     `sapui5`     |
@@ -180,7 +180,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                  project                                                 |                                                                                                      description                                                                                                     |     tags     |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
-|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,954 \| 🐛 96 \| 🌐 ABAP \| 📅 2026-10-10        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
+|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,954 \| 🐛 96 \| 🌐 ABAP \| 📅 2026-10-11        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
 | [abapTimeMachine](https://github.com/abapinho/abapTimeMachine) ⭐ 68 \| 🐛 19 \| 🌐 ABAP \| 📅 2023-07-31 | ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code) | `versioning` |
 
 <a name="sci" />
@@ -191,8 +191,8 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: |
 |     [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap) ⭐ 438 \| 🐛 34 \| 🌐 ABAP \| 📅 2026-09-21     | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality. |   `inspector`   |
 |      [abapOpenChecks](https://github.com/larshp/abapOpenChecks) ⭐ 335 \| 🐛 308 \| 🌐 ABAP \| 📅 2026-09-30      |                            Open source checks for SAP Code Inspector / ABAP Test Cockpit                            |   `inspector`   |
-|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 315 \| 🐛 439 \| 🌐 TypeScript \| 📅 2026-10-10        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
-|  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-10-07  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
+|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 315 \| 🐛 434 \| 🌐 TypeScript \| 📅 2026-10-11        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
+|  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-10-11  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
 | [abaplint-sci-client](https://github.com/abaplint/abaplint-sci-client) ⭐ 43 \| 🐛 18 \| 🌐 ABAP \| 📅 2026-05-24 |                                    ABAP part for running abaplint on ABAP backend                                   |     `linter`    |
 |                [vscode-abap](https://github.com/larshp/vscode-abap) ⭐ 34 \| 🐛 9 \| 📅 2024-07-17                |                                   ABAP syntax highlighting for Visual Studio Code                                   |      `vsc`      |
 |      [abap-metrics-provider](https://github.com/abap-observability-tools/abap-metrics-provider) ⚠️ Archived      |     Let's you use predefined or custom metrics to monitor your abap stack with a monitoring tool of your choice     |  `performance`  |
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
