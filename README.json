@@ -18,7 +18,7 @@
                 "language": "ABAP",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-20T06:16:56Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "abap2xlsx",
                 "repo": "abap2xlsx",
                 "stars": 881,
@@ -270,8 +270,8 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:11:30Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-21T15:01:04Z",
+                "open_issues": 4,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
                 "stars": 386,
@@ -2125,7 +2125,7 @@
                 "open_issues": 11,
                 "owner": "ABAP-Logger",
                 "repo": "ABAP-Logger",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "abap",
                   "logger",
@@ -2429,11 +2429,11 @@
                 "id": 48330698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T18:11:20Z",
+                "last_commit": "2026-10-21T16:09:54Z",
                 "open_issues": 426,
                 "owner": "abaplint",
                 "repo": "abaplint",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "abap",
                   "abaplint",
@@ -2458,7 +2458,7 @@
                 "id": 149973615,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T14:24:41Z",
+                "last_commit": "2026-10-21T06:36:28Z",
                 "open_issues": 61,
                 "owner": "abaplint",
                 "repo": "vscode-abaplint",
@@ -2649,7 +2649,7 @@
                 "language": "ABAP",
                 "license": "MIT",
                 "last_commit": "2026-10-19T16:54:52Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "abap-openapi",
                 "repo": "abap-openapi",
                 "stars": 101,
@@ -2914,10 +2914,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-20T15:24:38Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "abap",
                   "hacktoberfest"
@@ -3175,7 +3175,7 @@
                 "open_issues": 18,
                 "owner": "marcellourbani",
                 "repo": "abap-adt-api",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "abap",
                   "adt",
@@ -3335,27 +3335,6 @@
             },
             {
               "node_type": "item",
-              "title": "abapCI",
-              "description": "Continuous Integration for ABAP ,",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Continuous Integration for ABAP ",
-                "homepage": null,
-                "id": 100522262,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2020-10-26T10:27:48Z",
-                "open_issues": 12,
-                "owner": "andau",
-                "repo": "abapCI",
-                "stars": 63,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:11:22.628Z"
-            },
-            {
-              "node_type": "item",
               "title": "abap-cleaner",
               "description": "ABAP cleaner applies 55+ cleanup rules to ABAP code at a single keystroke ,",
               "children": [],
@@ -3370,7 +3349,7 @@
                 "open_issues": 126,
                 "owner": "SAP",
                 "repo": "abap-cleaner",
-                "stars": 672,
+                "stars": 673,
                 "topics": [
                   "abap",
                   "adt",
@@ -3404,7 +3383,7 @@
                 "open_issues": 0,
                 "owner": "victorizbitskiy",
                 "repo": "zconcurrency_api",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "abap",
                   "abap-concurrency-api",
@@ -4262,7 +4241,7 @@
                 "open_issues": 2,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-refscen-flight",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "abap",
                   "abap-environment",
@@ -4884,7 +4863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:55:12.907Z",
+    "last_updated": "2026-10-21T20:55:42.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
