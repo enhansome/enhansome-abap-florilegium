@@ -47,8 +47,8 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                  project                                                                 |                                       description                                      |       tags       |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------: |
-|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 386 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-10-22                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
-|                             [falv](https://github.com/fidley/falv) ⭐ 172 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
+|                       [abap2UI5](https://github.com/oblomov-dev/abap2UI5) ⭐ 387 \| 🐛 3 \| 🌐 ABAP \| 📅 2026-10-23                      |                          Development of UI5 Apps in pure ABAP                          |     `sapui5`     |
+|                             [falv](https://github.com/fidley/falv) ⭐ 173 \| 🐛 4 \| 🌐 ABAP \| 📅 2026-02-13                             |                                  FALV - Fast ALV Grid                                  |       `alv`      |
 |                              [eui](https://github.com/bizhuka/eui) ⭐ 59 \| 🐛 1 \| 🌐 ABAP \| 📅 2026-09-26                              |                                     Easy UI in SAP                                     | `alv`, `screens` |
 |                   [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) ⭐ 35 \| 🐛 0 \| 🌐 ABAP \| 📅 2021-05-12                  |                       ABAP deployment of SAPUI5 apps from Github                       |     `sapui5`     |
 |                  [abap-ui-toolbox](https://github.com/stockbal/abap-ui-toolbox) ⭐ 21 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-03-05                 |        Tools for UI Development like Improved ALV Grid and GUI control framework       |   `alv`, `gui`   |
@@ -166,7 +166,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                            project                                                           |                                                              description                                                             |   tags   |
 | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------: |
-|             [ABAP-Logger](https://github.com/ABAP-Logger/ABAP-Logger) ⭐ 407 \| 🐛 11 \| 🌐 ABAP \| 📅 2026-08-25             |                                            ABAP Logging as painless as any other language                                            | `logger` |
+|             [ABAP-Logger](https://github.com/ABAP-Logger/ABAP-Logger) ⭐ 408 \| 🐛 11 \| 🌐 ABAP \| 📅 2026-08-25             |                                            ABAP Logging as painless as any other language                                            | `logger` |
 |             [abap-fm-logger](https://github.com/hhelibeb/abap-fm-logger) ⭐ 72 \| 🐛 0 \| 🌐 ABAP \| 📅 2026-06-27            |                                                  A logger for function module (RFC)                                                  | `logger` |
 | [abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter) ⭐ 35 \| 🐛 19 \| 🌐 ABAP \| 📅 2023-05-08 |                                      Exports SAP Netweaver logs to a log system of your choice.                                      |  `logs`  |
 |                  [abap-log](https://github.com/fabianlupa/abap-log) ⭐ 37 \| 🐛 2 \| 🌐 ABAP \| 📅 2023-09-29                 |                                                       Logging library for ABAP                                                       | `logger` |
@@ -180,7 +180,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                  project                                                 |                                                                                                      description                                                                                                     |     tags     |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
-|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,960 \| 🐛 94 \| 🌐 ABAP \| 📅 2026-10-22        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
+|        [abapGit](https://github.com/abapGit/abapGit) ⭐ 1,960 \| 🐛 94 \| 🌐 ABAP \| 📅 2026-10-23        |                                                                                                  Git client for ABAP                                                                                                 |     `git`    |
 | [abapTimeMachine](https://github.com/abapinho/abapTimeMachine) ⭐ 68 \| 🐛 19 \| 🌐 ABAP \| 📅 2023-07-31 | ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code) | `versioning` |
 
 <a name="sci" />
@@ -191,7 +191,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: |
 |     [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap) ⭐ 439 \| 🐛 35 \| 🌐 ABAP \| 📅 2026-09-21     | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality. |   `inspector`   |
 |      [abapOpenChecks](https://github.com/larshp/abapOpenChecks) ⭐ 337 \| 🐛 308 \| 🌐 ABAP \| 📅 2026-10-20      |                            Open source checks for SAP Code Inspector / ABAP Test Cockpit                            |   `inspector`   |
-|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 319 \| 🐛 425 \| 🌐 TypeScript \| 📅 2026-10-22        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
+|        [abaplint](https://github.com/abaplint/abaplint) ⭐ 319 \| 🐛 430 \| 🌐 TypeScript \| 📅 2026-10-23        |                                         Standalone static analysis for ABAP                                         |     `linter`    |
 |  [vscode-abaplint](https://github.com/abaplint/vscode-abaplint) ⭐ 35 \| 🐛 61 \| 🌐 TypeScript \| 📅 2026-10-21  |                                        Visual Studio Code abaplint extension                                        | `linter`, `vsc` |
 | [abaplint-sci-client](https://github.com/abaplint/abaplint-sci-client) ⭐ 43 \| 🐛 18 \| 🌐 ABAP \| 📅 2026-10-16 |                                    ABAP part for running abaplint on ABAP backend                                   |     `linter`    |
 |                [vscode-abap](https://github.com/larshp/vscode-abap) ⭐ 34 \| 🐛 9 \| 📅 2024-07-17                |                                   ABAP syntax highlighting for Visual Studio Code                                   |      `vsc`      |
@@ -224,7 +224,7 @@ A collection of the most popular and interesting ABAP-related repositories sorte
 
 |                                                                project                                                               |                                          description                                         |       tags       |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :--------------: |
-| [vscode\_abap\_remote\_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) ⭐ 402 \| 🐛 15 \| 🌐 TypeScript \| 📅 2026-10-20 |                              Remote filesystem for ABAP systems                              |       `vsc`      |
+| [vscode\_abap\_remote\_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) ⭐ 402 \| 🐛 17 \| 🌐 TypeScript \| 📅 2026-10-20 |                              Remote filesystem for ABAP systems                              |       `vsc`      |
 |            [ABAP-SDK-for-Azure](https://github.com/microsoft/ABAP-SDK-for-Azure) ⭐ 198 \| 🐛 5 \| 🌐 ABAP \| 📅 2026-07-14           |                 ABAP Libraries for SAP native Integration with Azure Services                |      `azure`     |
 |                    [abap2gapps](https://github.com/ivanfemia/abap2gapps) ⭐ 15 \| 🐛 0 \| 🌐 ABAP \| 📅 2018-08-30                    |                             ABAP API for Google Apps integration                             |     `google`     |
 |               [abap2gsheet](https://github.com/techedgegroup-sap/abap2gsheet) ⭐ 14 \| 🐛 2 \| 🌐 ABAP \| 📅 2020-01-15               |                      ABAP framework that abstract the Google Sheets API                      |     `google`     |
@@ -359,4 +359,4 @@ List being updated: feel free to contribute!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
