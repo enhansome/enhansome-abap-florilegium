@@ -270,7 +270,7 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-10-23T19:18:12Z",
+                "last_commit": "2026-10-24T19:44:19Z",
                 "open_issues": 3,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
@@ -2305,10 +2305,10 @@
                 "language": "ABAP",
                 "license": "MIT",
                 "last_commit": "2026-10-23T12:56:06Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1960,
+                "stars": 1961,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2913,8 +2913,8 @@
                 "id": 153752194,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:24:38Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-24T08:31:49Z",
+                "open_issues": 15,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
                 "stars": 402,
@@ -4863,7 +4863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:40:22.054Z",
+    "last_updated": "2026-10-24T19:51:25.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
