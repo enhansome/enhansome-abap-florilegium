@@ -270,7 +270,7 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-10-28T15:22:01Z",
+                "last_commit": "2026-10-29T18:06:25Z",
                 "open_issues": 4,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
@@ -538,7 +538,7 @@
                 "open_issues": 0,
                 "owner": "marianfoo",
                 "repo": "ztoad",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "abap",
                   "sql"
@@ -1426,8 +1426,8 @@
                 "id": 339325036,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-10-28T15:48:13Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-29T10:15:22Z",
+                "open_issues": 47,
                 "owner": "SAP",
                 "repo": "abap-file-formats",
                 "stars": 113,
@@ -2304,11 +2304,11 @@
                 "id": 21115149,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-10-28T20:50:59Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-29T15:39:52Z",
+                "open_issues": 93,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1966,
+                "stars": 1968,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2404,7 +2404,7 @@
                 "open_issues": 308,
                 "owner": "larshp",
                 "repo": "abapOpenChecks",
-                "stars": 336,
+                "stars": 337,
                 "topics": [
                   "abap",
                   "abap-code-inspector",
@@ -2429,7 +2429,7 @@
                 "id": 48330698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T14:39:25Z",
+                "last_commit": "2026-10-29T10:52:40Z",
                 "open_issues": 422,
                 "owner": "abaplint",
                 "repo": "abaplint",
@@ -2914,10 +2914,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T13:18:29Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
-                "stars": 404,
+                "stars": 406,
                 "topics": [
                   "abap",
                   "hacktoberfest"
@@ -3345,8 +3345,8 @@
                 "id": 630896010,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T15:46:02Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-29T16:21:26Z",
+                "open_issues": 118,
                 "owner": "SAP",
                 "repo": "abap-cleaner",
                 "stars": 675,
@@ -3383,7 +3383,7 @@
                 "open_issues": 0,
                 "owner": "victorizbitskiy",
                 "repo": "zconcurrency_api",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "abap",
                   "abap-concurrency-api",
@@ -4213,7 +4213,7 @@
                 "open_issues": 13,
                 "owner": "SAP-samples",
                 "repo": "abap-platform-rap-opensap",
-                "stars": 607,
+                "stars": 608,
                 "topics": [
                   "abap",
                   "abap-restful",
@@ -4301,7 +4301,7 @@
                 "open_issues": 0,
                 "owner": "SAP-samples",
                 "repo": "abap-cheat-sheets",
-                "stars": 1833,
+                "stars": 1834,
                 "topics": [
                   "abap",
                   "abap-cds",
@@ -4863,7 +4863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:54:51.536Z",
+    "last_updated": "2026-10-29T22:02:55.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
