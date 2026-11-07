@@ -21,7 +21,7 @@
                 "open_issues": 151,
                 "owner": "abap2xlsx",
                 "repo": "abap2xlsx",
-                "stars": 883,
+                "stars": 884,
                 "topics": [
                   "abap",
                   "backend",
@@ -270,7 +270,7 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-11-06T20:47:18Z",
+                "last_commit": "2026-11-07T12:24:31Z",
                 "open_issues": 6,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
@@ -2430,7 +2430,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-06T15:51:42Z",
-                "open_issues": 426,
+                "open_issues": 428,
                 "owner": "abaplint",
                 "repo": "abaplint",
                 "stars": 321,
@@ -2913,11 +2913,11 @@
                 "id": 153752194,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T14:27:26Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-07T10:10:28Z",
+                "open_issues": 17,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "abap",
                   "hacktoberfest"
@@ -3349,7 +3349,7 @@
                 "open_issues": 122,
                 "owner": "SAP",
                 "repo": "abap-cleaner",
-                "stars": 679,
+                "stars": 680,
                 "topics": [
                   "abap",
                   "adt",
@@ -4393,7 +4393,7 @@
                 "id": 412114333,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-11-05T07:35:48Z",
+                "last_commit": "2026-11-07T08:48:07Z",
                 "open_issues": 15,
                 "owner": "exercism",
                 "repo": "abap",
@@ -4863,7 +4863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:26:25.053Z",
+    "last_updated": "2026-11-07T21:05:32.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
