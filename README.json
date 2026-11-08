@@ -2429,8 +2429,8 @@
                 "id": 48330698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T15:51:42Z",
-                "open_issues": 428,
+                "last_commit": "2026-11-08T13:36:41Z",
+                "open_issues": 426,
                 "owner": "abaplint",
                 "repo": "abaplint",
                 "stars": 321,
@@ -3171,8 +3171,8 @@
                 "id": 166708443,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T09:17:26Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-08T10:55:25Z",
+                "open_issues": 16,
                 "owner": "marcellourbani",
                 "repo": "abap-adt-api",
                 "stars": 120,
@@ -4301,7 +4301,7 @@
                 "open_issues": 0,
                 "owner": "SAP-samples",
                 "repo": "abap-cheat-sheets",
-                "stars": 1843,
+                "stars": 1844,
                 "topics": [
                   "abap",
                   "abap-cds",
@@ -4393,7 +4393,7 @@
                 "id": 412114333,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-11-07T08:48:07Z",
+                "last_commit": "2026-11-08T08:11:17Z",
                 "open_issues": 15,
                 "owner": "exercism",
                 "repo": "abap",
@@ -4863,7 +4863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:05:32.017Z",
+    "last_updated": "2026-11-08T21:22:54.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
