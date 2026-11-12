@@ -21,7 +21,7 @@
                 "open_issues": 151,
                 "owner": "abap2xlsx",
                 "repo": "abap2xlsx",
-                "stars": 884,
+                "stars": 886,
                 "topics": [
                   "abap",
                   "backend",
@@ -270,8 +270,8 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-11-11T23:07:46Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-12T22:39:34Z",
+                "open_issues": 8,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
                 "stars": 390,
@@ -2175,7 +2175,7 @@
                 "open_issues": 19,
                 "owner": "abap-observability-tools",
                 "repo": "abap-log-exporter",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "abap",
                   "logs",
@@ -2308,7 +2308,7 @@
                 "open_issues": 99,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1979,
+                "stars": 1980,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2430,10 +2430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-11T11:51:16Z",
-                "open_issues": 433,
+                "open_issues": 435,
                 "owner": "abaplint",
                 "repo": "abaplint",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "abap",
                   "abaplint",
@@ -2914,7 +2914,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-11T08:59:22Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "marcellourbani",
                 "repo": "vscode_abap_remote_fs",
                 "stars": 410,
@@ -4863,7 +4863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:43:34.045Z",
+    "last_updated": "2026-11-12T22:53:33.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
