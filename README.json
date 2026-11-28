@@ -21,7 +21,7 @@
                 "open_issues": 151,
                 "owner": "abap2xlsx",
                 "repo": "abap2xlsx",
-                "stars": 890,
+                "stars": 891,
                 "topics": [
                   "abap",
                   "backend",
@@ -183,7 +183,7 @@
                 "open_issues": 0,
                 "owner": "boy0korea",
                 "repo": "ABAP2XLSX_HELPER",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "abap",
                   "abap2xlsx",
@@ -270,7 +270,7 @@
                 "id": 574401773,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-11-26T16:12:56Z",
+                "last_commit": "2026-11-27T21:04:57Z",
                 "open_issues": 5,
                 "owner": "abap2UI5",
                 "repo": "abap2UI5",
@@ -462,7 +462,7 @@
                 "open_issues": 3,
                 "owner": "larshp",
                 "repo": "ABAP-Object-Visualizer",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:22.628Z"
@@ -1383,7 +1383,7 @@
                 "open_issues": 5,
                 "owner": "cesar-sap",
                 "repo": "abap_fm_json",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:22.628Z"
@@ -1430,7 +1430,7 @@
                 "open_issues": 39,
                 "owner": "SAP",
                 "repo": "abap-file-formats",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "abap",
                   "abap-file-formats"
@@ -2125,7 +2125,7 @@
                 "open_issues": 12,
                 "owner": "ABAP-Logger",
                 "repo": "ABAP-Logger",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "abap",
                   "logger",
@@ -2150,7 +2150,7 @@
                 "open_issues": 0,
                 "owner": "hhelibeb",
                 "repo": "abap-fm-logger",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "abap",
                   "logger",
@@ -2304,11 +2304,11 @@
                 "id": 21115149,
                 "language": "ABAP",
                 "license": "MIT",
-                "last_commit": "2026-11-27T00:02:54Z",
-                "open_issues": 100,
+                "last_commit": "2026-11-27T21:12:23Z",
+                "open_issues": 99,
                 "owner": "abapGit",
                 "repo": "abapGit",
-                "stars": 1987,
+                "stars": 1989,
                 "topics": [
                   "abap",
                   "abapgit",
@@ -2429,8 +2429,8 @@
                 "id": 48330698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T21:25:34Z",
-                "open_issues": 389,
+                "last_commit": "2026-11-27T20:48:06Z",
+                "open_issues": 408,
                 "owner": "abaplint",
                 "repo": "abaplint",
                 "stars": 325,
@@ -2626,7 +2626,7 @@
                 "open_issues": 24,
                 "owner": "larshp",
                 "repo": "ABAP-Swagger",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "abap",
                   "openapi",
@@ -3175,7 +3175,7 @@
                 "open_issues": 13,
                 "owner": "marcellourbani",
                 "repo": "abap-adt-api",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "abap",
                   "adt",
@@ -3471,7 +3471,7 @@
                 "open_issues": 4,
                 "owner": "BiberM",
                 "repo": "ABAPParallelizationService",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:22.628Z"
@@ -3520,7 +3520,7 @@
                 "open_issues": 0,
                 "owner": "jrodriguez-rc",
                 "repo": "abap-dev-utilities",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "abap",
                   "abap-development"
@@ -4301,7 +4301,7 @@
                 "open_issues": 0,
                 "owner": "SAP-samples",
                 "repo": "abap-cheat-sheets",
-                "stars": 1862,
+                "stars": 1863,
                 "topics": [
                   "abap",
                   "abap-cds",
@@ -4863,7 +4863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:09:49.838Z",
+    "last_updated": "2026-11-28T00:42:17.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of the most popular ABAP-related repositories sorted by category and scope of use",
